@@ -1,0 +1,981 @@
+Category,Title,URL,Date,Description,Body
+Artificial Intelligence,The Intersection of AI Across 6 Major Industries: Exploring Latest AI Applications From Business Perspective,https://www.unite.ai/the-intersection-of-ai-across-6-major-industries-exploring-latest-ai-applications-from-business-perspective/,2023-05-15T16:20:57-04:00,"The increasing prevalence of AI applications in various industries, including finance, healthcare, legal, technology, marketing, and sales, demonstrates a promising future for the business landscape.","The rise of AI is fueling the discovery of business use cases and AI applications across a range of major industries, such as healthcare, finance, technology, sales and marketing, and others. AI utilization has reached unprecedented levels, with substantial 
+investment
+ and research directed toward powering automation in real-world scenarios.
+According to 
+Statista
+, the current AI market value of approximately 100 billion U.S. dollars is projected to skyrocket to nearly two trillion U.S. dollars by 2030, indicating a twentyfold increase.
+Let’s explore different AI applications across 6 major industries, along with some tips to get started with AI adoption in your organization.
+What Can AI Do For Business?
+AI enables machines to execute tasks that traditionally necessitate human attention but are repetitive. It can analyze and interpret information using vast amounts of data and algorithms, allowing for accurate predictions and informed decision-making.
+AI tools
+ brings several benefits to businesses, including;
+Efficiency and productivity by letting humans focus on higher-value tasks.
+High-velocity business decisions and operations, enabling shorter development cycles and faster ROI on development dollars.
+Agile capabilities and business model expansion, such as identifying new revenue streams.
+Reduced human error and improved quality, such as delivering error-free results in financial reconciliation.
+Better monitoring capabilities to prevent 
+costly
+ and disruptive breakdowns.
+AI Applications Across 6 Major Industries
+Artificial intelligence improves operations, streamlines workflows, and enhances customer experiences across various industries. Let's explore some of them below.
+1. AI Applications in Marketing
+Image by 
+airdone
+ from 
+Adobe Stock
+The global AI market in marketing is projected to reach 
+$40.09 billion by 2025
+, with a compound annual growth rate of 29.7% from 2020 to 2025.
+Companies use AI to improve their 
+marketing
+ tactics and increase client engagement, from tailored content and dynamic pricing to AI-led email delivery times and ad targeting.
+Here are some AI applications in marketing:
+Personalized Content
+AI technology can evaluate data and forecast consumer preferences using 
+machine learning
+ algorithms, enabling businesses to customize their content to each customer's unique requirements and interests. For instance, 
+BuzzFeed
+ is a media firm that uses AI to tailor its content for its audience.
+Conversational AI
+Conversational AI refers to technologies like chatbots and virtual agents that enable users to communicate through natural language. These technologies utilize machine learning and 
+natural language processing
+ to simulate human-like interactions. Due to their ability to personalize, scale, and effectively communicate with users, conversational AI allows businesses to provide a seamless and dynamic consumer experience.
+Ad Targeting
+AI has significantly impacted ad targeting by analyzing enormous quantities of data to produce comprehensive client profiles, enabling marketers to target their adverts more precisely. As a result, marketers enjoy higher conversion rates, cheaper costs per acquisition, and a better return on investment.
+2. AI Applications in Legal Services
+Image by 
+phonlamaiphoto
+ from 
+Adobe Stock
+AI adoption is playing a crucial role in transforming the legal industry by automating routine tasks, reducing costs, and improving accuracy. Up to 60% of the responsibilities carried out by attorneys and paralegals could be automated, according to a report by 
+Accenture
+.
+Let's discover how AI is revolutionizing the 
+legal industry
+.
+Legal Research
+AI offers sophisticated algorithms to aid legal practitioners in saving time and effort while conducting legal research. Lawyers can swiftly assess and analyze massive volumes of data using AI-powered legal research tools, which helps them make better choices.
+For instance, 
+ROSS Intelligence
+ is an AI-powered platform that helps several law firms, like 
+Dentons
+, automate their research procedures and boost productivity.
+E-discovery
+Finding, gathering, and producing electronically stored information (ESI) in response to a legal request is known as e-discovery. Compared to conventional manual approaches, e-discovery can be carried out more quickly, precisely, and inexpensively with AI. With 
+Relativity
+ AI-driven technologies, legal practitioners can streamline collection to production processes.
+Judge Bots
+One area where AI is gaining traction is in the development of judge bots, which are AI-powered systems that can help judges make more informed decisions based on legal precedent and data analysis. Judge bots can give judges a more thorough understanding of legal issues and aid in making more accurate and consistent judgments.
+China employed the 
+nation's first judge bots
+, named Xiozhi, capable of effectively handling certain civil cases through adjudication.
+3. AI Applications in Sales
+Image by 
+Stanisic Vladimir
+ from 
+Adobe Stock
+The sales sector is witnessing a significant transition as AI enables them to make data-driven choices and boost performance across lead generation and customer engagement. According to a report by 
+McKinsey
+, sales teams that use AI for lead generation and opportunity identification can increase their productivity by up to 50%.
+Here are a few applications of AI in sales.
+Conversation Intelligence
+Conversation Intelligence (CI) uses AI to record and analyze speech and extract data-driven insights from the conversations between sales agents and customers. Businesses can use conversation intelligence to gather insightful information about customer behavior and preferences. This allows them to customize their sales strategy to fulfill client expectations.
+By providing insights into human communication patterns and identifying common pain points, CI informs the design and development of 
+conversational AI
+ systems to meet customer needs better.
+AI Avatar
+AI avatars are one of the newest AI technologies causing a stir in the market. These are virtual assistants that offer individualized customer care and sales assistance using machine learning algorithms and natural language processing. With the help of AI avatars, sales teams can automate repetitive operations to free up time for business-critical activities. For instance, 
+Synthesia.io
+ is an AI video creation platform that lets you create AI avatars for professional videos.
+Lead Generation
+Another area in which AI has made strides is lead generation. By using machine learning algorithms and 
+predictive analytics
+, businesses can effectively identify and prioritize high-quality leads based on their likelihood of conversion.
+Automated lead scoring procedures can free up valuable time for sales staff, allowing them to focus on building meaningful relationships with potential clients. This way, businesses can optimize their sales efforts and improve their chances of closing deals while streamlining their lead management process.
+For example, 
+Leadzen.ai
+ is an AI-powered lead generation tool that provides real-time updates to businesses in the prospecting process.
+4. AI Applications in Technology
+Image by 
+Blue Planet Studio
+ from 
+Adobe Stock
+IDC
+ predicted that by 2024, the world would spend $110 billion on artificial intelligence, with the technology sector accounting for most of the expenditure.
+Some latest applications of AI in the technology sector include the following:
+Machine Learning Software Development
+ML
+ software development refers to developing intelligent systems that can learn from data and improve over time. This involves automating ML operations (MLOps), backend development, data engineering, and ML model deployment.
+Natural Language Processing
+Natural Language Processing (NLP)
+ empowers machines to go beyond mere reading and delve into the realms of comprehension and interpretation of human language. By harnessing the power of NLP, machines gain the capacity to extract meaning from written or spoken text and undertake various tasks such as speech recognition, sentiment analysis, and automatic text summarization.
+In NLP, GPT development refers to developing text generation models based on GPT-3 and GPT-4. It includes custom model training and model optimization to help businesses improve their goods and services, automate procedures, and enhance customer experiences.
+5. AI Applications in Healthcare
+Image by 
+hasan
+ from 
+Adobe Stock
+AI supports the healthcare industry by enabling faster diagnoses and improving patient outcomes. Let’s explore some 
+AI applications in healthcare.
+Drug Discovery
+Clinical trials for each drug cost an average of 
+$1.3 billion
+, and only 10% of drugs make it to the market. However, AI accelerates drug discovery by analyzing and predicting drug side effects and efficacy. AI also reduces time-to-market for critical-care drugs.
+For instance, 
+Therapeutics Data Commons
+ is an open-access platform that facilitates collaboration and provides data set curation and algorithm design for multiple treatment modalities at all stages of drug development.
+AI-Assisted Robotic Surgery
+Robots in surgical procedures are rapidly gaining popularity, with hospitals relying on them for minimally invasive procedures and open-heart surgeries. Robot-assisted surgeries have resulted in fewer complications, reduced pain, and faster recovery.
+For instance, 
+Mayo Clinic
+ in the US utilizes robot-assisted surgeries to provide precision, flexibility, and control that surpass human capabilities, enabling doctors to perform complex procedures easily.
+AI-Powered Virtual Therapists
+AI-powered virtual therapists offer an innovative solution to everyday mental health challenges by providing improved access to healthcare and digital patient engagement. Moreover, healthcare chatbots can collaborate with human therapists in real-time to provide feedback or suggestions.
+6. AI in Finance
+Image by 
+Have a nice day
+ from 
+Adobe Stock
+AI has disrupted various industries but none like banking and 
+finance
+. According to a Financial Services 
+report
+, banks could save $447 billion by 2023 by using AI apps.
+Let’s walk through some of its applications.
+AI-Powered Personalized Banking
+Personalized banking powered by AI is revolutionizing the industry. Machine learning algorithms integrated into mobile banking apps help customers make better financial decisions by identifying their spending patterns and offering valuable tips.
+For instance, 
+Tally
+, a fintech company, helps customers pay off their credit card debts by offering guidance on which debts to pay first and when.
+Behavior-Based Investment Predictions
+Behavior-based investment predictions are investment strategies that leverage machine learning algorithms to predict market trends based on investor behavior. These strategies use a combination of financial and non-financial data, such as news articles, social media sentiment, and investor sentiment, to identify patterns and trends that can be used to predict future market movements.
+Micro-investing apps like 
+Acorns
+ use AI to analyze users' spending patterns to predict when they can save or invest small amounts of money without affecting their daily expenses.
+Anti-Money Laundering
+With the help of AI, financial institutions can now detect fraudulent activities in real time, reducing false positives and improving the identification of suspicious transactions and behaviors. This is because AI algorithms can analyze a large amount of data and detect patterns humans may miss. For example, 
+Feedzai
+ is a fraud detection software that helps banks manage financial risks.
+AI Adoption in Business
+Getting started with AI adoption in your organization can be overwhelming. Here are three tips to get started.
+Start by identifying the business problems that can benefit from AI solutions.
+Assess your organization's readiness to adopt AI, including data quality, technology infrastructure, and employee skill sets.
+Establish a cross-functional team with IT, business, and data science representatives to oversee the AI adoption process.
+Visit 
+Unite.ai
+ to learn more about the latest trends and technologies in AI."
+Best Of,10 Best AI Writing Tools & Apps (May 2023),https://www.unite.ai/best-ai-writing-tools/,2023-05-16T12:51:48-04:00,10 Best AI Writing Apps & Tools (May 2023) · 1. Jasper · 2. Scalenut · 3. Anyword · 4. Ink · 5. Neuraltext · 6. Writesonic,"Artificial intelligence (AI) technologies have come a long way in a short amount of time. These technologies were traditionally limited to tasks that were clearly laid out with guidelines. However, they are now capable of carrying out creative tasks like writing. 
+There are many options when it comes to AI writing software, which can be used to generate long-form content, create engaging headlines, reduce writing errors, and increase production time. 
+Here is a look at the 9 best AI writing software tools:
+1. 
+Jasper
+Many recognize Jasper as the best overall AI writing assistant, leading the market with its impressive features and quality. You first provide it with seed words, which Jasper then analyzes before creating phrases, paragraphs, or documents based on the subject matter and tone of voice. It is capable of producing a 1,500-word article in seconds.
+The platform has more than 50 AI content generation templates, including blog posts, emails, marketing copy, Facebook ad generator, Google ad generator, SEO meta title and description, press release, and much more. 
+Here is a look at some of the best features of Jasper:
+More than 11,000 free fonts and 2,500 categories of writing styles 
+Supports 25+ languages
+Intuitive interface
+Long-form writing assistant (1,000+ words)
+Identify key elements in text (pronouns, verbs, names, etc.)
+2. 
+Scalenut
+Scalenut is essentially an all in one marketing tool and is designed to scale. It enables you to quickly and get the entire keyword plan for your niche and to generate a content management strategy to dominate these terms. The software is divided into 4 sections:
+Research
+ – Uncover insights and build a strategy that works by getting all the insights and semantic key terms you need to outpace your competition.
+Create
+ – Write SEO content that ranks by using the most advanced versions of NLP and NLU (
+Natural Language Processing
+ & Natural Language Understanding). It offers real-time optimization based on SERP statistics, and offers content that can deliver.
+Optimize
+ – Get real-time feedback on where your content stands with a dynamic SEO score. Improve on the go, no more revisions!
+Marketing Copy
+ – Write persuasive copy that brings conversions with 40+ AI copywriting templates. This includes the following:
+Product descriptions
+Website copy
+Copywriting Frameworks
+Email Copyrighting
+3. 
+Anyword
+Anyword is a data-driven copywriting tool that is designed for marketers.  It enables the generation of effective copy for ads, emails, landing pages, and content for different platforms.
+When it comes to creating adverts it is easy to do so for Facebook ads, Google Adwords, LinkedIn Ads, and Twitter Ads.
+Of course for longer form content they also make it easy to generate blog posts, product descriptions, YouTube descriptions, and much more.
+The differentiator is that Anyword empowers creative marketers to add data to their toolbox by providing predictive metrics and insights into which part of the message works and for whom.
+4. 
+INK
+INK combines AI co-writing and an SEO assistant to help you develop content. The SEO Assistant aspect of the tool enables you to create content that will rank high on search engines and drive organic traffic. It achieves this through a patented AI system that analyzes content in real-time while providing suggestions to improve SEO scores. 
+The other main feature, AI Co-Writing, helps generate high-performing copy. The AI assists users in writing, rewriting, and simplifying sentences. 
+Here is a look at some of the main features of INK Editor:
+Meta optimization
+Image optimization through compression and resizing
+Spelling and grammar correction
+AI-Writing, AI-Simplifying, and AI-Expanding functionalities
+Integrates into WordPress
+5. 
+Neuraltext
+Neuraltext aims to cover the entire content process, from ideation to execution, using AI.
+It’s an AI copywriter, SEO content tool, and keyword research tool.
+AI copywriting tools will let you create effective copy for your campaigns, generating dozens of variations. It has more than 50 ready-to-use templates (Facebook ads, Slogan ideas, blog section writing, and so on).
+SEO content tools will help create well-researched content using the data from pages already ranking on Google. This is how it works: insert a keyword, and the tool will automatically pull out the top 20 results on Google Search, showing data on suggested keywords to use, what topics to cover, what questions to answer, and statistics.
+Using these data, you can easily create an outline in a few clicks and assemble a content brief for your writers in a few minutes, saving hours of mindlessly clicking on Google Search results.
+Moreover, you can use these data in an editor to get a score, optimizing your content for SEO as you write.
+Finally, the keyword research tool will help you to find long-tail keywords with a strong commercial intent (people that is ready to convert).
+6. 
+Writesonic
+If you want to generate high-quality website copy and marketing text, Writesonic’s AI-powered content generation technology is the way to go. The tool enables you to generate blog posts, product descriptions, and marketing headlines automatically. Writesonic also allows you to create many variations of Google and Facebook ads in just seconds. 
+Here is a look at some of Writesonic’s top features: 
+Produces unique content and a wide range of topics within seconds
+Build-in grammar correction tool
+Generates content for blog posts, ads, landing pages, product descriptions, and more
+Rephrases and expands content
+Supports 24 languages 
+7. 
+Wordtune
+Wordtune is one of the most advanced AI writing software tools on the market. Instead of only performing tasks like grammar checking and rephrasing, it works to understand the actual context and semantics of the words it's fed. The technology enables you to make more compelling and engaging content through advanced, neural-net-based NLP technology. 
+After you provide Wordtune with words, it paraphrases the content and rewrites it while improving the text's readability. 
+Here is a look at some of Wordtune’s most impressive features:
+Smart paste feature
+Relies on semantic analysis to rewrite articles
+Gives you complete control over sentence length and style
+Integrates with social media platforms
+Is based entirely in the cloud 
+8. 
+Sudowrite
+Sudowrite is a unique writing tool that is designed specifically for creative writing including short stories, novels, and screenplays.
+Some of the challenges that Sudowrite is designed for are issues that face most creative writers, for example.
+Writing
+ – This is like autocomplete on steroids. It analyzes your characters, tone, and plot arc and generates the next 300 words in your voice. It even gives you options!
+Canvas
+ – This will generate alternate plot points, character secrets, and plot twists with you. Hoard all your inspiration and references in one place.
+Pacing
+ – No matter how much time you spend planning, you’ll end up with some sections that feel rushed. Expand magically builds out your scenes so the pacing doesn’t take readers out of the story.
+Visualize
+ – If you need to add art to your words, this brings your character sheets and worldbuilding documents to life with art generated from your descriptions.
+9. 
+Copy Shark
+Copy Shark is a new entrant that offers AI powered software that generates ad copy, product descriptions, sales copy, blog paragraphs, video scripts more. It allows users to automatically generate unique and human-like copy in seconds, and best of all it supports over 100 languages.
+Some of the tools that are offered include:
+Create product descriptions including for Amazon & Etsy
+Create high converting Google Ads
+Rewrite and improve existing content
+Generates human-like high converting sales copy
+Generate high converting headlines
+Social media posts
+Create press releases
+YouTube video scripts
+Blog titles and blog content with bullet points & more.
+10. 
+Sapling
+The last AI writing software tool covered here is Sapling, an AI writing assistant software for messaging platforms and CRMs. The software tool is especially useful to sales and support teams, helping them write personalized customer responses. 
+Sapling relies on a machine-learning algorithm to detect language problems and errors, enabling it to be far more accurate than traditional spell-checking tools. All of this results in better communications between businesses and their customers. 
+Here are some of the best features of Sapling:
+Autocomplete feature for speeding up replies
+Stores and retrieves most common query responses
+Performance focused reporting
+Has a high level of security
+Fast and easy installation 
+There are many AI software writing tools on the market, helping both individuals and businesses avoid mistakes that could damage their brand. With new advancements in AI technologies, these tools are also incredibly beneficial for generating fresh and engaging content. Using one of these 5 best AI writing software tools can take your content to the next level while saving time and increasing production. "
+Thought Leaders,The Controversies of AI in Advertising,https://www.unite.ai/the-controversies-of-ai-in-advertising/,2023-05-09T14:10:42-04:00,"Artificial intelligence has become part of everyday life. AI is making waves in many industries, from construction and manufacturing to health care. Advertising is also beginning to adopt AI tools to help make better marketing decisions and campaigns. While it has become a powerful tool, the controversial nature of AI in advertising may keep some […]","Artificial intelligence has become part of everyday life. AI is making waves in many industries, from construction and manufacturing to health care. Advertising is also beginning to adopt AI tools to help make better marketing decisions and campaigns.
+While it has become a powerful tool, the controversial nature of AI in advertising may keep some companies from embracing it. Some concerns are valid and could change the field moving forward. 
+How AI Is Changing Advertising
+The rise of AI technology has given the advertising industry 
+many powerful tools people can use
+ to further their marketing efforts. Several programs allow AI to help organize the workflow and even automate specific tasks to make an ad campaign run smoother.
+AI programs are very good at gathering and working with consumer data. Artificial intelligence can track what marketing trends and designs consumers are responding to and give suggestions to improve a campaign. 
+Artificial intelligence tools can also be applied to designing and developing products such as containers and ads. AI 
+makes coming up with eye-catching designs
+ easy, while copywriting programs can help write advertising scripts and text. 
+As technology improves, people will find more applications for AI tools in advertising. However, the controversial nature of AI in advertising throws its acceptability into question. 
+AI Replacing Human Workers
+One of the most significant controversies about adopting artificial intelligence in the workplace is the fear that AI tools will replace humans in certain jobs. It is a valid concern, but not as worrisome as it might initially appear. Studies have shown that, while AI has 
+phased out 1.7 million jobs
+ since this century began, it will also 
+create 97 million more
+ by 2025. 
+AI and robotics might be taking on more redundant jobs from human workers, but new and more detail-oriented jobs that AI cannot do are appearing. Some involve maintaining these tools — something only humans can handle.
+AI tools are becoming indispensable as advertising becomes more rooted in the digital world. However, marketing strategies will always need a human element. As social media advertising costs grow 
+from $450 to $6,000 monthly
+, AI tools should help human agents while controlling expenses. 
+Trustworthiness of AI
+Another big controversy surrounding intelligent machines is their trustworthiness. Although AI is much better at handling data than other computer programs, many people struggle to accept facts proven using it alone.
+A survey conducted by the World Economic Forum found that, 
+out of the 17,000 people
+ surveyed, only half believed companies that use AI extensively were as trustworthy as those that don't rely on it as much.
+Securing clients' trust is a big part of the advertising industry. Therefore, it is best to use AI tools in moderation. Relying too heavily on them can turn a client off to the firm's services. 
+AI Predictions Can Be Wrong
+While predictions and analyses from AI can be very accurate, they can also be wrong. Several factors 
+go into AI calculations
+. 
+Inaccurate data or programming bias can affect analysis results. Therefore, relying too much on AI tools for a marketing strategy can prevent it from failing. AI should be used with marketing expertise to ensure the information is accurate and the process is sound.
+Bias in Artificial Intelligence
+While it's commonly believed that artificial intelligence is free of discrimination and bias, the truth is murky. AI excels in gathering and working with data, which is controlled by its programming. If the parameters are biased toward certain information, users might not get an accurate sample to work with.
+Data is critical in advertising. Advertising companies must gather the right information to create a strategy the target audience will be receptive to. Therefore, it is best to combine human marketing expertise with AI tools. 
+AI and Creativity
+One of the most recent controversies regarding AI is the nature of originality and creativity. New AI programs such as ChatGPT and MidJourney 
+have sparked debates on whether art
+ and text generated by AI can be considered creative and original works. 
+This is because of how the programs work. AI tools need large data sets to perform tasks, so these programs mimic art and writing styles online and analyze the works. They copy these aspects so well that artists can pinpoint which of their pieces were used. 
+Because of this, artists have gone so far as to 
+level lawsuits against the creators
+ of these programs based on violating copyright laws. This can be a big problem for advertising companies who use these programs to generate materials.
+Therefore, while these tools can help give designers ideas, they should not be the only source to design advertisements. Relying too much on 
+art generator programs
+ could invite a lawsuit from illustrators. 
+AI Tools Complement the Human Element
+AI tools in advertising will become more prolific as time goes on. However, their controversial nature can serve as a warning to avoid relying on them too much. Humans and AI working together is the future of advertising, but people must proceed with caution."
+Best Of,8 Best AI Music Generators (May 2023),https://www.unite.ai/best-ai-music-generators/,2023-05-16T12:08:35-04:00,Top 8 AI Music Generators · 1. Amper Music · 2. AIVA · 3. Soundful · 4. Ecrett Music · 5. Soundraw · 6. Boomy · 7. OpenAI - MuseNet....,"Artificial intelligence (AI) is being increasingly implemented across artistic fields like music, film, and other forms of art. When implemented, it can impact every aspect of the music-making process including music generation, audio mastering, and music streaming. 
+Another great opportunity provided by AI is that it gives amateur musicians an innovative way to improve their creative process. The music industry, just like many other industries, is using AI as a supplemental tool rather than as a replacement for human artists. 
+Many experts, researchers, musicians, and record labels are seeking new ways to integrate AI technologies into music. Some software can produce works in the style of different composers, while others use 
+machine learning
+ algorithms to generate brand new songs and sounds. 
+Another great aspect of these tools is that many of them are open-source, meaning anyone can access them and begin improving on the existing technologies. 
+Let’s take a look at some of the best AI music generators on the market: 
+1. 
+Amper Music
+Topping our list of best AI music generators is Amper Music, which is one of the easiest AI music generators to use, making it a perfect choice for those looking to get started with AI-generated music. 
+Amper does not require deep knowledge of music theory or composition to use, as it creates musical tracks from pre-recorded samples. These are then transformed into real audio, which can be modified with music keys, tempo, individual instruments, and more. For example, you can tune the entire instrument to fit the mood or vibe you are trying to achieve. 
+The cloud-based platform is a great choice for content creators or individuals looking to develop soundtracks and sound for games, movies, or podcasts. With the premium edition, you have even more options that supplement you as the artist. 
+Here are some of the main advantages of Amper Music: 
+Quickly create music for a wide range of applications (podcasts, movies, and video games)
+Millions of samples and many varieties of instruments
+Tools for improving music production
+Cloud-based platform
+2. 
+AIVA
+Another impressive AI music generator that always receives attention is AIVA, which was developed in 2016. The AI is constantly being improved to compose soundtracks for ads, video games, movies, and more. 
+AIVA’s first publication was titled “Opus 1 for Piano Solo,” and it has also released an album and composed music for a video game. The tool enables users to develop music from scratch, and it can help produce variations of existing songs, all without having to worry about music licensing processes. 
+With AIVA, you can easily generate music of many genres and styles by first selecting a preset style. When it comes to current music, you can use AIVA to apply edits. 
+Here are some of the main advantages of AIVA: 
+Many presets and specified music formats
+Functional free version
+Ability to edit soundtracks
+Modify existing tracks
+I am AI - AI Composed Music by AIVA
+Watch this video on YouTube
+3. 
+Soundful
+Soundful leverages the power of AI to generate royalty free background music at the click of a button for your videos, streams, podcasts and much more.
+The entire process is designed to be intuitive, simply choose a genre, customize your inputs and create your tracks. Repeat until you find the track that is right for you. It's that easy.
+Most importantly the music is unique, Soundful's algorithms are taught note-by-note alongside some of the industry's most exciting producers and sound engineers – and since they're music theory trained one-shot samples, Soundful's AI will never replicate a song that already exists, or even one from its own platform. Users can start with over 50 templates from different genras.
+The platform effectively matches the content needs of the following 3 types of users:
+Producers
+ – Never get stuck creatively again. Generate unique tracks at the click of a button. When you find a track you like, render the high res file and download the stems.
+Creators
+ – Stop worrying about copyright strikes and start discovering unique, royalty-free tracks that work perfectly with your content.
+Brands
+ – Stop overpaying for your music. Soundful offers an affordable way to acquire unique, studio-quality music tailored to your brands needs
+Soundful | AI Music Generator
+Watch this video on YouTube
+4. 
+Ecrett Music
+Ecrett Music enables anyone to generate clips of music by training on hundreds of hours of existing songs. The tool’s straightforward interface and large selection of scenes, emotions, and genres makes it a great choice for amateurs and professionals alike. 
+The AI music generator allows you to compose music for any video or game, and it comes with a royalty-free music generator to avoid any issues with licensing. 
+To use the tool, you first select at least one option from Scene, Mood, and Genre before clicking “Create Music.” The tool then creates the music based on your choices, and you get different music every time even when using the same settings. 
+You can also customize instruments and structures with just a few clicks. Some of the instruments include Melody, Backing, Bass, and Drum. 
+After you have created music with Ecrett, you can then manage it with Favorites, Download History, Video Upload, and more. 
+Here are some of the main advantages of Ecrett Music: 
+Trial version before subscribing
+Straightforward and comprehensive user interface 
+Simple music creation process
+Multiple subscription plans
+How to Create Royalty Free Music for YouTube Video | ecrett music
+Watch this video on YouTube
+5. 
+Soundraw
+One more great option for an AI music generator is Soundraw, which enables you to customize a song with AI-created phrases, among many other things. The tool relies on the combination of AI and its assembly of manual tools, all of which enable you to generate and customize new music with ease. 
+The platform has a customization feature that allows you to improvise and tune a single piece of music. While free users can use the music generator to create music, you must subscribe for unlimited downloads. 
+Here are some of the main advantages of Soundraw: 
+Easy to use
+Combines AI compositions and manual tools
+Plug-in compatible with Google Chrome and Premiere Pro
+Unlimited downloads with subscription plan
+In-depth Tutorial of the Soundraw Platform
+Watch this video on YouTube
+6. 
+Boomy
+One of the tools playing a key role in expanding access to music generation and lowering the barrier of entry into music production is Boomy, which enables you to create original songs in seconds. You can then submit those songs for the potential to earn streaming revenues from various services, which makes it a very unique tool. 
+After you set a few filters and click “Create Song,” the tool’s creative artificial Intelligence writes and produces a full song in seconds. You will then have the option to reject or save it. And as you follow this process, Boomy’s AI develops a personalized profile for you to help create the best music. 
+Here are some of the main advantages of Boomy: 
+Free and subscription versions
+Submit music to earn revenues on platforms like YouTube and TikTok
+Access to many features and functionalities
+Personalized profile
+7. 
+OpenAI  – MuseNet
+One of the biggest names in the AI industry, OpenAI, has their own online AI music- generating tool called MuseNet. According to the company, the tool can generate songs with up to ten different instruments and music in up to 15 different styles. 
+Another unique aspect of OpenAI’s MuseNet is that it can mimic famous composers like Mozart, as well as today’s top composers. The tool relies on a deep neural network trained on data acquired from internet sources, and this enables it to evaluate music over long periods of time. 
+It’s important to note that while MuseNet has many samples on Soundcloud, and you can enjoy a lot of AI-generated music from the tool, it still does not allow you to generate your own music at this point. 
+Here are some of the main advantages of MuseNet: 
+Many different samples available
+Mimics old and modern composers
+Deep neural network
+Evaluates music over long periods of time
+8. 
+Amadeus Code
+Closing out our list of best AI music generators is Amadeus Code, which can be used by any music enthusiast. The IOS-based app allows you to create new melodies in a matter of minutes. 
+Amadeus Code relies on an AI engine that contains chord progressions of some of the world’s most famous songs. You can then use these to create new structures of music compositions. 
+The AI music generator also allows you to use gestures to create brand new songs or recreate specific segments of previously composed songs. You can export audio and MIDI files to audio editing software, but you must purchase all of the songs you want to keep. 
+Here are some of the main advantages of Amadeus Code: 
+Can be exported as audio and MIDI files
+IOS-based app
+Create new melodies in minutes
+Use gestures to create brand new songs
+How Amadeus Code creates melodies
+Watch this video on YouTube
+ "
+Ethics,What Geoffrey Hinton’s Exit Represents for AI,https://www.unite.ai/what-geoffrey-hintons-exit-represents-for-ai/,2023-05-10T14:09:55-04:00,"Renowned artificial intelligence researcher, Geoffrey Hinton, at 75 years of age, recently made a significant decision that sent ripples throughout the tech industry. Hinton chose to step away from his role at Google, a move he detailed in a statement to the New York Times, citing his growing apprehensions about the path of generative AI […]","Renowned artificial intelligence researcher, Geoffrey Hinton, at 75 years of age, recently made a significant decision that sent ripples throughout the tech industry. Hinton chose to step away from his role at Google, a move he detailed in a statement to the 
+New York Times
+, citing his growing apprehensions about the path of generative AI as a primary factor.
+The British-Canadian cognitive psychologist and computer scientist voiced his concerns over the potential dangers of AI chatbots, which he described as being “quite scary”. Despite the current chatbots not surpassing human intelligence, he warned that the rate of progress in the field suggests that they may soon surpass us.
+Hinton's contributions to AI, particularly in the field of neural networks and deep learning, have been instrumental in shaping the landscape of modern AI systems like ChatGPT. His work enabled AI to learn from experiences similar to how humans do, a concept known as deep learning.
+However, his recent statements have highlighted his growing concerns about the potential misuse of AI technologies. In an interview with the BBC, he alluded to the “nightmare scenario” of “bad actors” exploiting AI for malicious purposes, with the possibility of self-determined sub-goals emerging within autonomous AI systems.
+The Double-Edged Sword
+The implications of Hinton's departure from Google are profound. It serves as a stark wake-up call to the tech industry, emphasizing the urgent need for responsible technological stewardship that fully acknowledges the ethical consequences and implications of AI advancements. The rapid progress in AI presents a double-edged sword – while it has the potential to impact society significantly, it also comes with considerable risks that are yet to be fully understood.
+These concerns should prompt policymakers, industry leaders, and the academic community to strive for a delicate balance between innovation and safeguarding against theoretical and emerging risks associated with AI. Hinton's statements underscore the importance of global collaboration and the prioritization of regulatory measures to avoid a potential AI arms race.
+As we navigate the rapid evolution of AI, tech giants need to work together to enhance control, safety, and the ethical use of AI systems. Google's response to Hinton's departure, as articulated by their Chief Scientist Jeff Dean, reaffirms their commitment to a responsible approach towards AI, continually working to understand and manage emerging risks while pushing the boundaries of innovation.
+As AI continues to permeate every aspect of our lives, from deciding what content we consume on streaming platforms to diagnosing medical conditions, the need for thorough regulation and safety measures grows more critical. The rise of artificial general intelligence (AGI) is adding to the complexity, leading us into an era where AI can be trained to do a multitude of tasks within a set scope.
+The pace at which AI is advancing has surprised even its creators, with Hinton's pioneering image analysis neural network of 2012 seeming almost primitive compared to today's sophisticated systems. Google CEO Sundar Pichai himself admitted to not fully understanding everything that their AI chatbot, Bard, can do.
+It's clear that we're on a speeding train of AI progression. But as Hinton's departure reminds us, it's essential to ensure that we don't let the train build its own tracks. Instead, we must guide its path responsibly, thoughtfully, and ethically."
+Artificial Intelligence,Accelerating Scientific Discoveries: AI Conducts Autonomous Experiments,https://www.unite.ai/accelerating-scientific-discoveries-ai-conducts-autonomous-experiments/,2023-05-16T11:07:40-04:00,"An artificial intelligence platform known as BacterAI, designed by a research team led by a professor at the University of Michigan, has showcased its ability to conduct a staggering number of autonomous scientific experiments – as many as 10,000 per day. The breakthrough application of AI could pave the way for rapid advancements in various […]","An artificial intelligence platform known as BacterAI, designed by a research team led by a professor at the University of Michigan, has showcased its ability to conduct a staggering number of autonomous scientific experiments – as many as 10,000 per day. The breakthrough application of AI could pave the way for rapid advancements in various fields including medicine, agriculture, and environmental science.
+The results of the research were published in 
+Nature Microbiology
+.
+Deciphering Microbial Metabolism with BacterAI
+BacterAI was developed to map the metabolism of two microbes associated with oral health, without any baseline information to start with. The complex metabolic processes of bacteria involve the consumption of a specific combination of the 20 amino acids required for life. The goal of the research was to determine the precise amino acids needed by beneficial oral microbes to promote their growth.
+“We know almost nothing about most of the bacteria that influence our health. Understanding how bacteria grow is the first step toward reengineering our microbiome,” said Paul Jensen, U-M assistant professor of biomedical engineering, who was at the University of Illinois when the project began.
+A Challenging Task Simplified by AI
+Decoding the preferred combination of amino acids for bacteria is a daunting task due to the over a million possible combinations. However, BacterAI was able to successfully determine the amino acid requirements for the growth of both 
+Streptococcus gordonii
+ and 
+Streptococcus sanguinis
+.
+BacterAI's approach involved testing hundreds of combinations of amino acids per day, refining its focus and altering combinations each day based on the results of the previous day's experiments. Within a span of nine days, it achieved 90% accuracy in its predictions.
+AI Learning Through Trial and Error
+Unlike traditional methods that use labeled data sets to train machine-learning models, BacterAI generates its own data set through an iterative process of conducting experiments, analyzing results, and predicting future outcomes. This method enabled it to decipher the rules for feeding bacteria with fewer than 4,000 experiments.
+“We wanted our AI agent to take steps and fall down, to come up with its own ideas and make mistakes. Every day, it gets a little better, a little smarter,” said Jensen, highlighting the parallels between the learning process of BacterAI and a child.
+The Future of AI in Research
+Given that little to no research has been conducted on approximately 90% of bacteria, conventional methods present a significant barrier in terms of time and resources required. BacterAI's ability to conduct automated experimentation could drastically accelerate discoveries. In a single day, the team managed to run up to 10,000 experiments.
+However, the potential applications of BacterAI extend beyond microbiology. Researchers in any field can pose questions as puzzles for AI to solve through this kind of trial and error process.
+“With the recent explosion of mainstream AI over the last several months, many people are uncertain about what it will bring in the future, both positive and negative,” said Adam Dama, a former engineer in the Jensen Lab and lead author of the study. “But to me, it's very clear that focused applications of AI like our project will accelerate everyday research.”"
+Thought Leaders,"How AI, Edge Computing, IoT & The Cloud are Drastically Reshaping Vehicle Fleet Management",https://www.unite.ai/how-ai-edge-computing-iot-the-cloud-are-drastically-reshaping-vehicle-fleet-management/,2023-05-11T14:14:14-04:00,"As companies look to modernize their vehicles, the benefits of connected vehicles could make these technologies the new standard for fleet management. In fact, 86% of connected fleet operators already surveyed have reported a solid return on their investment in connected fleet technology within one year through reduced operational costs. Furthermore, connected fleets with advanced […]","As companies look to modernize their vehicles, the benefits of connected vehicles could make these technologies the new standard for fleet management. In fact, 86% of connected fleet operators already surveyed have 
+reported a solid return on their investment in connected fleet technology within one year
+ through reduced operational costs.
+Furthermore, connected fleets with advanced telematics technology today offer additional benefits in terms of managing and maintaining vehicles. 
+Another study illustrated a 13% reduction in fuel costs
+ for surveyed businesses, along with improvements to preventive maintenance. It also showed a 40% reduction in harsh braking, showing modifications to driving habits that could both contribute to parts longevity and improve driver safety.
+Large amounts of data are difficult to process
+This means vehicle fleets, insurance providers, maintenance and aftermarket companies are all looking to harness more of this intelligent telematics data. However, the amount of data produced every day keeps growing. As a result, these businesses have more data than ever at their disposal to help make informed business decisions. But, this vast amount of data brings in plenty of new challenges in capturing, digesting and analyzing the entirety of the data in a cost-effective manner.
+To truly be effective and useful, data must be tracked, managed, cleansed, secured, and enriched throughout its journey to generate the right insights. Companies with automotive fleets are turning to new processing capabilities to manage and make sense of this data.
+Embedded systems technology has been the norm
+Traditional telematics systems have relied upon embedded systems, which are devices designed to access, collect, analyze (in-vehicle), and control data in electronic equipment, to solve a set of problems. These embedded systems have been widely used, especially in household appliances and today the technology is growing in the use of analyzing vehicle data.
+Why current solutions are not very efficient
+The existing solution in the market is to use the low latency of 5G. Using AI and GPU acceleration on AWS Wavelength or Azure Edge Zone, vehicle OEMs can offload onboard vehicle processors to the cloud when feasible. This approach allows traffic between 5G devices and content or application servers hosted in Wavelength zones to bypass the internet, resulting in reduced variability and content loss.
+To ensure optimum accuracy and richness of datasets, and to maximize usability, sensors embedded within the vehicles are used to collect the data and transmit it wirelessly, between vehicles and a central cloud authority, in near real-time. Depending on the use cases that are increasingly becoming real-time oriented such as roadside assistance, ADAS and active driver score and vehicle score reporting, the need for lower latency and high throughput have become much larger in focus for fleets, insurers and other companies leveraging the data.
+However, while 5G solves this to a large extent, the cost incurred for the volume of this data being collected and transmitted to the cloud remains cost prohibitive. This makes it imperative to identify advanced embedded compute capability inside the car for edge processing to happen as efficiently as possible.
+The rise of vehicle to cloud communication
+To increase the bandwidth efficiency and mitigate latency issues, it’s better to conduct the critical data processing at the edge within the vehicle and only share event-related information to the cloud. In-vehicle edge computing has become critical to ensure that connected vehicles can function at scale, due to the applications and data being closer to the source, providing a quicker turnaround and drastically improves the system’s performance.
+Technological advancements have made it possible for automotive embedded systems to communicate with sensors, within the vehicle as well as the cloud server, in an effective and efficient manner. Leveraging a distributed computing environment that optimizes data exchange as well as data storage, automotive IoT improves response times and saves bandwidth for a swift data experience. Integrating this architecture with a cloud-based platform further helps to create a robust, end-to-end communications system for cost-effective business decisions and efficient operations. Collectively, the edge cloud and embedded intelligence duo connect the edge devices (sensors embedded within the vehicle) to the IT infrastructure to make way for a new range of user-centric applications based on real-world environments.
+This has a wide range of applications across verticals where resulting insights can be consumed and monetized by the OEMs. The most obvious use case is for aftermarket and vehicle maintenance where effective algorithms can analyze the health of the vehicle in near real-time to suggest remedies for impending vehicle failures across vehicle assets like engine, oil, battery, tires and so on. Fleets leveraging this data can have maintenance teams ready to perform service on a vehicle that returns in a far more efficient manner since much of the diagnostic work has been performed in real time.
+Additionally, insurance and extended warranties can benefit by providing active driver behavior analysis so that training modules can be drawn up specific to individual driver needs based on actual driving behavior history and analysis. For fleets, the active monitoring of both the vehicle and driver scores can enable reduced TCO (total cost of ownership) for fleet operators to reduce losses owing to pilferage, theft and negligence while again providing active training to the drivers.
+Powering the future of fleet management
+AI-powered analytics leveraging IoT, edge computing and the cloud are rapidly changing how fleet management is performed, making it more efficient and effective than ever. The ability of AI to analyze large amounts of information from telematics devices provides managers with valuable information to improve fleet efficiency, reduce costs and optimize productivity. From real-time analytics to driver safety management, AI is already changing the way fleets are managed.
+The more datasets AI collects with OEM processing via the cloud, the better predictions it can make. This means safer, more intuitive automated vehicles in the future with more accurate routes and better real-time vehicle diagnostics."
+Thought Leaders,The Cost Of Intelligence Is Dropping: How Can Enterprises Compete?,https://www.unite.ai/the-cost-of-intelligence-is-dropping-how-can-enterprises-compete/,2023-05-18T13:41:13-04:00,"$15.7 Trillion. That’s more than the combined annual output of Japan, Germany, India, and the UK, combined. Unsurprisingly it’s also what PwC estimates that AI will contribute to the global economy by 2030. It’s no secret that the cost of intelligence has been falling steadily for years. In fact, in 2020, a third of enterprises […]","$15.7 Trillion.
+That’s more than the combined annual output of Japan, Germany, India, and the UK, combined. Unsurprisingly it’s also what 
+PwC estimates that AI will contribute to the global economy by 2030
+. It’s no secret that the cost of intelligence has been falling steadily for years. In fact, in 2020, a third of enterprises reported that the 
+cost of AI decreased by as much as 20% across nearly every industry
+.
+In 1965, Gordon Moore predicted that the number of transistors on a chip would double every two years, allowing for commensurate advancements in computing power, data storage, and algorithmic efficiency. On the heels of that prediction, the near exponential growth of the cloud and the pay-as-you-go model, now means that even smaller organizations now have access to highly scalable computing infrastructure at relatively low cost. This has removed the need for large up-front investments in computing infrastructure and has made it possible for smaller organizations to compete with larger ones on an equal footing.
+Moreover, the explosion of data has played a crucial role in the reduction of the cost of intelligence. With the growth of the internet and the proliferation of sensors, there is now an abundance of data available for analysis. This has allowed 
+machine learning
+ algorithms to be trained on large datasets, leading to improved accuracy and performance. In addition, the open-source movement has made it possible for developers to access and use large datasets for free, lowering the barriers to entry for developing intelligent systems. Finally, advances in algorithmic efficiency have also contributed to the reduction of the cost of intelligence. Researchers have developed new techniques for training and optimizing machine learning algorithms, resulting in faster and more accurate models. This has made it possible to develop intelligent systems with fewer computational resources, reducing the cost of development and deployment.
+In an era where AI and ML technologies are ubiquitous, we can expect to see significant changes in how enterprises operate and innovate across industries. In fintech, for example, agile startups are using AI to deliver everything from STP for customer KYC and on-boarding to financial and budgetary insights. And in healthcare, it’s enabling small tech start-ups to predict patient symptoms via inputs from wearables, and deliver timely emergency services.
+Building A Connected Enterprise Is Critical
+Connected enterprises are much better positioned to take advantage of the falling cost of intelligence than their traditional counterparts. Part of the reason is that connected enterprises use digital technology to connect with customers, employees, suppliers, and partners in real-time. They also take a cloud-first approach to infrastructure, helping them easily process high volumes of data from mobile devices, social media, and other tools to streamline processes and gain insights into customer behavior. Most connected enterprises in fact, are built on three major pillars.
+Amplified Human Potential:
+ Often, connected enterprises play host to culture of innovation, agility and collaboration. The high degree of automation and end-to-end digitalization means that employees are emancipated from the tyranny of repetitive manual tasks, and have more time for creative problem-solving and higher order work. In fact, having the digital infrastructure to support innovation culture is just as important as building the culture itself.
+Value Networks:
+ Leaders within connected enterprises understand that the linear supply chain has outlived its usefulness, and are instead investing in ecosystems of technology providers, aggregators, distributors, and startups. Low-latency connections within these ecosystems, or value networks, means that every stakeholder has access to a stream of real-time information to fuel decision-making, optimize processes, and accelerate product delivery. A solid example lies in how auto insurers have partnered with manufactures and telematics companies to launch pay-as-you-drive models, where policyholders are charged a lower premium if they consistently exhibit safe driving behaviour. At the same time, the information collected by the onboard telematics helps emergency responders quickly track the scene of an accident, while feeding critical data back to manufacturers so they can optimize safety components.
+Cognitive Operations:
+ In today’s age, a ‘culture of innovation’ is only as good as the data that feeds it. Connected enterprises are more decentralized and flexible that traditional organizations, with distributed teams and a focus on results rather than process. Agile methodologies, AI-driven processes that require very little human intervention, and a high-degree of internal connectivity are hallmarks of successful connected enterprises. This means that data flows seamlessly across the entire system, and stakeholders can instantly access information that is critical to their work without the bottlenecks that siloed operations often create.
+What Does The Real-World Impact Entail?
+With a presence in over 20 countries across Asia, the Middle East, and Africa, a fast-growing FMCG company was looking to cement its position across multiple geographies. However, despite its success, the company struggled to tap into its full regional sales potential due to the fragmented retail landscape in emerging markets. Specifically, the company found it challenging to gain visibility into demand and increase its market share, due to a heavy reliance on manual processes. In terms of a solution,  using an AI-powered platform to automate operations and map out critical operational data was the first step. The next involved creating a dashboard for their sales representatives and territory managers that helped them map geo-penetration, identify territory gaps, and build a strategy for effective outlet coverage. In just a few months, they saw a 15% increase in value per size, 15% improvement in sales rep productivity, and a 50% jump in ECO.
+Similarly, when the pandemic was in full swing, a CPG company tracked the spread of COVID across different neighbourhoods, and fed that information into an AI platform to predict which retail locations would be hit hardest by stock-outs. By using these insights, coupled with a digitally connected distributor network, they were able to restock their products in a matter of a couple of days, while shelves lay bare of competitor brands.
+The Ethics And Agility Of Intelligence
+These stories illustrate how small organizations that embrace the AI tools and talents available to them, are able to create an impact that larger, more traditional enterprises would struggle to replicate. To stay resilient in a world where every organization has access to cutting-edge intelligence and analysis tools, turning into a connected enterprise is clearly essential.
+But besides creating more economic value,  a clear opportunity for enterprises to stand out amongst their peers is to commit to the ethical use of AI. Not only does this translate into using the technology to further environmental and social agendas, but it means ensuring that their AI models are culturally sensitive, unbiased toward minority perspectives, and are used in compliance with privacy regulations. As AI becomes further entrenched into enterprise operations, workforce displacement is also a key concern – one that leaders can address via upskilling programs and effective change management."
+Announcements,ChatGPT Goes Mobile With iOS App,https://www.unite.ai/chatgpt-goes-mobile-with-ios-app/,2023-05-18T18:28:29-04:00,"In a noteworthy advancement for AI accessibility, OpenAI has announced the launch of its popular chatbot, ChatGPT, in a new mobile format: an official iOS app. The app promises a free-to-use, ad-free experience for users, complete with voice input capabilities. Initially, however, access will be limited to U.S. users. Previously only available through a desktop […]","In a noteworthy advancement for AI accessibility, OpenAI has 
+announced
+ the launch of its popular chatbot, ChatGPT, in a new mobile format: an official iOS app. The app promises a free-to-use, ad-free experience for users, complete with voice input capabilities. Initially, however, access will be limited to U.S. users.
+Previously only available through a desktop interface, the move to mobile represents a significant shift for ChatGPT. Much like its desktop version, the mobile ChatGPT app aims to be more than just a standard digital assistant. The objective is to provide an AI companion that can respond to queries, offer advice, inspire, educate, and much more, all without the need for a traditional web search.
+A Potential Game Changer in the Tech Market
+While Apple’s Siri has long been a mainstay for iOS users, many have been critical of its perceived shortcomings and slow progress in AI development. In light of this, the launch of a mobile ChatGPT app could see a large number of iOS users flock to it as their primary mobile helper. This could potentially disrupt the reliance on Google, who, in spite of issues with Apple, has benefited from being the default search engine on Safari for iPhone users.
+The mobile ChatGPT has been designed to synchronize user history across devices, thereby enhancing its user-friendly appeal. Any search made via its web interface will be remembered and made easily accessible on the app. OpenAI has also integrated its open-source speech recognition system, Whisper, into the app to allow for voice input.
+ChatGPT Plus subscribers aren't being left in the dust either. They will gain access to GPT-4’s superior capabilities via the new app and will also enjoy the privilege of early access to new features and faster response times. Launched in February, the subscription service costs $20 per month and offers a suite of upgraded features, including access to ChatGPT even during peak times.
+Expansion and the Future of AI
+OpenAI has begun the app's rollout in the U.S. with plans to expand to other countries in the coming weeks. An Android version of the app has also been teased as “coming soon,” marking yet another expansion for the rapidly growing AI platform.
+The introduction of the ChatGPT app comes amidst a wave of AI experimentation from major tech companies such as Google, Microsoft, and Facebook. Having the ability to directly access ChatGPT on mobile outside of a search engine or browser has the potential to significantly disrupt how people use their phones to search and connect with information.
+One particular highlight of OpenAI’s mobile app is its ad-free nature. This allows users to receive instant answers without needing to sift through ads or multiple search results, which is a common issue with many search apps’ AI integrations. This feature is a notable advantage in OpenAI's favor, further setting it apart from the competition.
+The arrival of the ChatGPT mobile app is a testament to the promising future of AI and its ever-growing integration into our everyday lives. By making AI more accessible and user-friendly, OpenAI is not only democratizing this cutting-edge technology but also actively shaping the future of digital interactions."
+Best Of,10 Best AI Story Generators (May 2023),https://www.unite.ai/best-ai-story-generators/,2023-05-09T16:36:24-04:00,"AI story generators are powerful tools that can create plots, characters, and complete stories based on small text prompts. These AI-powered software applications offer writers an innovative way to overcome writer's block and find inspiration for their work. Here are some of the top AI story generators on the market. 1. Sudowrite Sudowrite is an […]","AI story generators are powerful tools that can create plots, characters, and complete stories based on small text prompts. These AI-powered software applications offer writers an innovative way to overcome writer's block and find inspiration for their work.
+Here are some of the top AI story generators on the market.
+1. 
+Sudowrite
+Sudowrite is an AI-powered writing assistant designed to help authors break free from writer's block and elevate their storytelling. By providing a simple text prompt, users can generate ideas, characters, and plotlines to enrich their stories. Sudowrite offers a user-friendly interface, making it accessible for writers of all experience levels. This AI tool is designed to improve the writing process, enabling users to create more engaging and original content. Its intelligent suggestions can help writers craft better stories and push their creative boundaries.
+In addition to generating ideas, Sudowrite can also help authors refine their writing by providing alternative phrasings, synonyms, and sentence structures. The platform can also recognize and suggest improvements for clichés and overused expressions, helping writers create fresh and unique content. Sudowrite offers seamless integration with popular writing software like Google Docs, Scrivener, and Microsoft Word, making it a convenient tool for writers to use in their daily workflow.
+Top features of Sudowrite:
+Advanced AI engine for story generation
+Real-time suggestions for plot, characters, and dialogues
+User-friendly interface and experience
+Easy integration with popular writing software
+Alternative phrasings, synonyms, and sentence structures
+Recognizes and suggests improvements for clichés and overused expressions
+2. 
+Jasper
+Jasper is an AI writing assistant that can generate story ideas, write entire stories, or expand on existing drafts. With a focus on natural language generation, Jasper helps writers create engaging, coherent, and original content. Its advanced algorithms analyze user-provided prompts and generate stories that capture the essence of the input while maintaining a natural and captivating flow. Jasper is versatile and can be used for various writing projects, from short stories and novels to blog posts and articles.
+Beyond story generation, Jasper also offers additional tools and features to help writers optimize their content. For example, it can analyze text and provide insights on readability, SEO optimization, and grammar, helping authors improve the overall quality of their work. Jasper's user-friendly interface makes it easy to customize generated content, allowing writers to control the tone, style, and complexity of their stories. With its powerful AI engine and versatile features, Jasper is an invaluable tool for writers looking to elevate their craft.
+Top features of Jasper:
+AI-driven natural language generation
+Versatile writing assistant for various projects
+In-depth customization options for generated content
+User-friendly interface and easy setup
+Readability, SEO optimization, and grammar insights
+Customizable tone, style, and complexity
+3. 
+Plot Factory
+Plot Factory is an online story generator and writing platform that allows users to create, organize, and store their stories in one place. Its AI-powered story generator helps writers develop new ideas, characters, and plotlines by providing them with creative suggestions based on their prompts. In addition to its AI capabilities, Plot Factory also offers a suite of tools for organizing, outlining, and world-building, making it a comprehensive solution for writers.
+Top features of Plot Factory:
+AI-powered story generation
+Comprehensive writing platform with organizational tools
+World-building and outlining capabilities
+Cloud-based storage and collaboration features
+4. 
+Writesonic
+Writesonic uses advanced AI to help writers craft engaging and original stories. It takes user prompts and turns them into comprehensive stories, making it a valuable tool for authors seeking inspiration or trying to overcome writer's block.
+Writesonic also offers a suite of writing tools, including a blog post outline generator and a landing page copy generator, demonstrating its versatility beyond just story generation.
+Top features of Writesonic:
+Advanced AI engine for generating comprehensive stories from prompts
+A suite of writing tools for different writing needs
+5. 
+Scalenut
+Scalenut, an AI-based writing tool, comes packed with features to assist writers in creating captivating stories. It uses an advanced AI model to generate content based on prompts provided by users. This means that with a few keywords or phrases, Scalenut can generate a complete and coherent storyline, making it an excellent tool for overcoming writer's block.
+Scalenut also has a user-friendly interface, making it accessible to both new and experienced writers. Its versatility extends to various types of writing, including blog posts, articles, and of course, stories.
+Top features of Scalenut:
+AI-powered story generation from user-provided prompts
+User-friendly interface and easy setup
+Versatile tool suitable for various types of writing
+6. 
+Copy AI
+Copy AI is a powerful AI story-writing tool that leverages GPT-3, a state-of-the-art algorithm for 
+natural language processing
+. It analyzes user inputs such as genre, story topic, and plot, and generates a list of compelling stories based on these elements. The Copy AI Freestyle template is specifically designed for story generation and produces more precise stories the more detailed your inputs are. This results in natural-sounding, engaging narratives that require less time and effort to edit.
+Copy AI is not only limited to story generation; it also excels in AI copywriting, producing content that rivals the quality of professional copywriters. To add to its convenience, Copy AI offers a Chrome Extension, making it easy to generate stories on the go, whether you're working in Google Docs or another app.
+Top features of Copy AI:
+AI-powered story generation using the GPT-3 algorithm
+The Copy AI Freestyle template for detailed and engaging stories
+Generates natural writing, reducing editing time
+Versatile tool capable of both AI copywriting and long-form storytelling
+Convenient Chrome Extension for easy access in various apps
+7. 
+Rytr
+Rytr is another AI writing assistant that excels in story generation. The platform employs an AI algorithm to generate unique and engaging stories based on the user's input. Simply provide a short prompt or an idea, and Rytr can turn it into a full-fledged story.
+In addition to story generation, Rytr also offers various writing modes, allowing writers to choose the style and tone of their story. This makes Rytr a versatile tool for writers working on different types of stories.
+Top features of Rytr:
+AI-driven story generation from short prompts or ideas
+Various writing modes for different story styles and tones
+8. 
+Shortly AI
+Shortly AI provides a unique, AI-powered writing experience. It offers a minimalist and distraction-free writing environment where you can give a few keywords or a short phrase, and the AI will generate a full story for you.
+One standout feature of Shortly AI is the “Instruct” command, which allows you to guide the AI in the direction you want the story to take, providing a more interactive and controlled writing experience.
+Top features of Shortly AI:
+Distraction-free, AI-powered writing environment
+“Instruct” command for a more controlled story generation
+9. 
+NovelAI
+Novel AI stands out as a powerful AI writing assistant specifically designed for generating novels. By taking user prompts, Novel AI can create rich and detailed storylines, characters, and dialogues. One of the unique features of Novel AI is its ability to maintain long-term coherence in the story, making it particularly suited for writing longer works like novels.
+Top features of Novel AI:
+AI-powered generation of detailed storylines, characters, and dialogues
+Maintains long-term coherence, making it suitable for novel writing
+10. 
+Inferkit
+Inferkit is a versatile AI writing tool capable of creating high-quality stories. It uses advanced language models to generate text that closely resembles human writing, making the stories engaging and natural-sounding.
+Inferkit is also capable of long-form content generation, making it a valuable tool for writers working on more substantial pieces like novels or long stories.
+Top features of Inferkit:
+Uses advanced language models for natural-sounding story generation
+Capable of long-form content generation"
+Announcements,What You Should Know About Google’s Upgraded Bard Chatbot,https://www.unite.ai/what-you-should-know-about-googles-upgraded-bard-chatbot/,2023-05-15T16:35:33-04:00,"Google's annual I/O 2023 developer conference was abuzz with significant announcements revolving around artificial intelligence. The tech giant unveiled a multitude of AI enhancements for Google apps and services, with a notable spotlight on their large language model (LLM), PaLM 2, and the upgraded Bard, Google's experimental conversational chatbot. As we delve into the advanced […]","Google's annual I/O 2023 developer conference was abuzz with significant announcements revolving around artificial intelligence. The tech giant unveiled a multitude of AI enhancements for Google apps and services, with a notable spotlight on their large language model (LLM), PaLM 2, and the upgraded Bard, Google's experimental conversational chatbot. As we delve into the advanced capabilities of Google's AI chatbot, it's crucial to retrace Bard's journey and understand its underpinnings.
+Google Keynote (Google I/O ‘23)
+Watch this video on YouTube
+The Evolution of Google Bard
+Debuted in February, Bard marked Google's innovative foray into AI-based conversational chatbots, akin to OpenAI’s renowned ChatGPT. Bard was initially equipped with a scaled-down version of Google’s Language Model for Dialogue Applications, LaMDA. This AI chatbot was designed to interact with users in a human-like manner, engaging in conversation, generating ideas, writing essays and codes, and even tackling math problems.
+However, the initial version of Bard received criticism for its limited capabilities and factual inaccuracies. Google's CEO, Sundar Pichai, acknowledged these limitations, revealing that they were intentional and part of the plan to progressively enhance Bard's capabilities with more potent LLMs.
+Fast forward to Google I/O 2023, Google delivered on its promise by upgrading Bard with the latest version of the Parallel Language Model, PaLM 2. This move marks a significant leap from LaMDA, amplifying Bard's capabilities.
+Initially, Bard was accessible exclusively to a select group of trusted testers in the US and the UK. Although the waitlist opened in March 2023, Bard remained inaccessible to the general public. However, Google has now broadened Bard's availability to over 180 countries and territories. While currently available only in English, Google plans to extend Bard's language support to Japanese and Korean, followed by an additional 40 languages in the future.
+Exploring Bard's Enhanced Capabilities
+With the integration of PaLM 2, Bard's functionality has experienced considerable improvements. The chatbot now boasts superior math, logic, and reasoning skills. It's capable of generating, explaining, and debugging code in over 20 programming languages, aiding developers in their programming endeavors.
+Bard's latest version also brings forth a more visual and interactive user experience. Users can now provide image inputs to Bard, who can then respond with relevant information, leveraging Google tools like Google Lens. Moreover, Bard can generate humorous captions, further enhancing user engagement.
+Not only can Bard's responses be directly exported to Gmail and Google Docs, but the chatbot also has the ability to browse the web for images, tap into knowledge graphs for relevant information, and utilize Google Maps for location-related queries. The integration with Google Sheets further augments its utility.
+In a bid to expand its collaborative functionalities, Google plans to integrate Bard with external services such as Adobe Firefly. This integration will allow users to generate new images from text prompts and bring them to the editing table. Google is also establishing connections between Bard and other partners like Kayak, OpenTable, ZipRecruiter, Instacart, Wolfram, and Khan Academy.
+Bard vs ChatGPT: The New AI Rivalry
+With the announcement of the upgraded Bard chatbot, Google is posed to challenge the dominance of OpenAI’s ChatGPT. One of Google’s strategic moves was the introduction of a lightweight version called “Gecko,” designed for smartphone integration, enabling users to run it locally on their Android devices. Besides Gecko, there are other more potent versions, including Otter, Bison, and Unicorn.
+In a head-to-head comparison between Bard and ChatGPT, both AI chatbots display impressive capabilities. However, certain distinguishing factors could tip the scales in Bard's favor. When it came to translating complex phrases, Bard provides more context, enhancing the comprehensibility of the translations.
+Bard also outperforms ChatGPT in the realm of coding. With its support for over 20 programming languages, Bard can assist professionals with code generation, explanation, and debugging, and it does so with a faster response time compared to ChatGPT.
+Another advantage Bard holds over ChatGPT is its connectivity to the internet. For example, when asked about the differences between OpenAI’s GPT-4 and Google’s PaLM2, Bard can provide an up-to-date response, while ChatGPT is limited to information from before 2021.
+Despite these advantages, Bard has a few limitations. One notable drawback is the lack of source backing for the information it provides, which can potentially lead to the spread of false information. Additionally, unlike ChatGPT, Bard doesn't allow access to previous interactions.
+As Google continues to refine and expand Bard's capabilities, it becomes increasingly clear that Bard is set to become a major competitor to OpenAI's ChatGPT. The advancements in AI chatbots, as exemplified by Google's Bard, are a testament to the vast potential of AI in enhancing user experience and interaction.
+The Future of Chatbots
+ChatGPT, with its early mover advantage, has become a household name in tech and has a dedicated user base accustomed to its functionalities. However, with Bard being offered for free compared to the GPT4-powered version of ChatGPT priced at $20 a month, Google's chatbot has a competitive edge.
+Both OpenAI and Google are working on enhancing their chatbots, with plans to make them multimodal and compatible with plugins. As the AI chatbot industry evolves, tech giants such as Google, Microsoft, and Meta are in a heated race to provide the most innovative and powerful offerings.
+Although OpenAI’s ChatGPT had a head start with its launch in September 2022, Google is rapidly closing the gap. With its strategic improvements and expansive global reach, Bard is emerging as a significant threat to the dominance of ChatGPT."
+Artificial Intelligence,Playing Catch-Up: Google’s Latest Developments from the 2023 Developer Conference,https://www.unite.ai/playing-catch-up-googles-latest-developments-from-the-2023-developer-conference/,2023-05-11T17:11:07-04:00,"On Wednesday, Google hosted its annual developer conference. The event was a marked departure from the usual multi-day affairs of the past, condensed this year into a single jam-packed day of announcements and showcases. A notable absence in 2020, the conference returned with a reduced staff roster, but with no shortage of new developments. Google's […]","On Wednesday, Google hosted its 
+annual developer conference
+. The event was a marked departure from the usual multi-day affairs of the past, condensed this year into a single jam-packed day of announcements and showcases. A notable absence in 2020, the conference returned with a reduced staff roster, but with no shortage of new developments.
+Google's event set the stage for Alphabet CEO, Sundar Pichai's. From the Shoreline Amphitheater in Silicon Valley, Pichai introduced the company's ambitious vision of reimagining its core products, such as search, using generative AI. This statement formed the backbone of the day's presentations and product unveilings.
+In the realm of artificial intelligence, Google introduced its second-generation Pathways Language Model (PaLM 2). This large language model represents an evolution from the previous iteration, powering numerous Google products. The company has been developing AI systems for many years, with the transformer architecture sitting at the heart of modern AI systems, such as chatbots.
+Google I/O '23 in under 10 minutes
+Watch this video on YouTube
+Google's Catch-up in AI
+This introduction comes at a time when Google is perceived as playing catch-up to rivals like OpenAI, whose GPT-3, ChatGPT, GPT-4, and DALL-E models have made significant waves in the AI field. Google's response is PaLM 2, capable of handling writing, coding, and calculations across more than 100 languages, scientific data sets, and code. PaLM 2 is available in four sizes: Gecko, Otter, Bison, and Unicorn. In addition, there are specialized versions for medical and security applications, known as Med-PaLM 2 and sec-PaLM.
+Notably, Google is integrating PaLM 2 into 25 products and features, with several of these available for early testing via Search Labs. One such product is Bard, an AI chatbot that now runs on PaLM 2. This chatbot is designed to assist developers with coding in 20 programming languages and will soon be able to cite the source of its suggestions. Google also plans to integrate Bard with various Google apps and third-party services, including Adobe Firefly and Instacart.
+Integrating Generative AI Into Google Search
+Generative AI is being integrated into the Google Search interface as well. It aims to handle multiple queries simultaneously, providing a single, AI-generated recommended answer. Google is also planning to add features to its image search system to help users understand the origin of images, when they were first indexed, and where else they might be found. This feature will be particularly useful in distinguishing between genuine photos and AI-generated or manipulated ones.
+Google is developing Duet AI for Workspace, a suite of PaLM-powered AI capabilities set to launch later this year. This suite includes features like AI-generated slide images in Google Slides, organizing rows and columns on demand in Google Sheets, unique backgrounds in Google Meet, and AI writing assistance in Google Docs. Google Cloud customers will gain access to Duet AI for Google Cloud, including features like code assistance, chat assistance, and Duet AI for AppSheet.
+New Hardware Announcements
+Turning towards hardware, Google showcased the 6.1-inch Pixel 7a smartphone, equipped with a larger camera sensor and an AI computation chip, the Tensor G2. The phone also includes an AI-powered Call Assist feature, with functions like Direct My Call, Call Screen, Hold for Me, Clear Calling (noise reduction), and Wait Times (hold time estimation).
+The conference also saw the introduction of the long-anticipated Pixel Fold, a foldable smartphone that becomes a 7.6-inch tablet when unfolded. The device can perform unique features, like live translation between two languages on panels facing different directions. Pre-orders of the Pixel Fold will also come with a complimentary Pixel Watch.
+The Pixel Fold was central to the demonstration of Google's Universal Translator project, a concept Google has been pushing for years, aiming to facilitate real-time conversation translation. Furthermore, the company teased the release of an 11-inch Pixel Tablet, capable of integrating into Google's home automation systems.
+Generative AI Across Product Lineup
+One of the key themes of the conference was the application of generative AI across Google's product lineup. For instance, Google announced the Magic Compose feature for Android, which uses generative AI to suggest responses to text messages. Gmail will introduce an alert system for instances when a user's email address shows up on the dark web, potentially indicating information theft or targeting by malicious actors. Moreover, Google Photos will soon receive a Magic Editor for making complex changes to images.
+MusicLM, a feature that can transform text descriptions of music into audio, was another intriguing announcement. Google also announced that Android-powered cars would soon be able to run popular apps like YouTube, Waze, Zoom, Microsoft Teams, and Cisco Webex.
+Google's Project Starline, a novel 3D video conferencing system, is still in the prototype stage, but it has been scaled down to a TV-sized device. Another new initiative is Project Tailwind, a notebook app that includes a chatbot capable of pulling information from Google Drive, organizing thoughts, and citing sources.
+The announcements at the conference demonstrated Google's commitment to AI, with Sundar Pichai stating that “AI is not only a market-enabler, it is also a big platform shift”. This vision was clearly reflected in the variety of AI-powered products and features unveiled throughout the day, indicating Google's ongoing efforts to maintain its position as a leading player in the AI field. As the tech giant continues to innovate and expand its AI capabilities, consumers and developers alike can expect a range of new tools designed to streamline and enhance their digital experiences."
+Regulation,The Main Takeaways from Sam Altman’s Testimony to Congress,https://www.unite.ai/the-main-takeaways-from-sam-altmans-testimony-to-congress/,2023-05-17T14:37:30-04:00,"The rapid advancement of artificial intelligence (AI) technologies has dramatically reshaped our world, from the way we communicate and work to how we make decisions and solve problems. As these technologies become ever more integrated into our daily lives, it has become increasingly crucial for governments, corporations, and society at large to grapple with the […]","The rapid advancement of artificial intelligence (AI) technologies has dramatically reshaped our world, from the way we communicate and work to how we make decisions and solve problems. As these technologies become ever more integrated into our daily lives, it has become increasingly crucial for governments, corporations, and society at large to grapple with the implications and potential consequences of this unprecedented technological revolution.
+One of the most pressing issues at the heart of this conversation is the regulation of AI. Historically, the tech industry has typically resisted government regulation, advocating for a more laissez-faire approach. The rationale is often that the pace of technological innovation would be hindered by cumbersome regulatory frameworks, or that governments, lacking the necessary technical expertise, could enact misguided regulations that do more harm than good.
+However, a potential shift in this mindset was witnessed when Sam Altman, CEO of OpenAI, a leading organization in the field of artificial intelligence, testified before a Senate subcommittee on May 16. The hearing was a part of the broader Congressional effort to understand the potential societal impacts of AI, and to consider possible legislative responses to mitigate any negative consequences.
+Altman's testimony was groundbreaking in several ways. It represented a departure from the traditional tech industry's stance towards regulation, with Altman making a compelling case for why proactive, government-led regulation of AI is not only necessary but also desirable. Furthermore, the testimony provided lawmakers with valuable insights into the potential risks and rewards of AI, as well as tangible proposals for how to navigate this complex terrain.
+Let's look at some of the key takeaways from Sam Altman's landmark testimony:
+1. The Call for AI Regulation
+Altman's plea for regulation of AI technology stands as a stark contrast to the defensive stance usually adopted by tech industry leaders when confronted with the prospect of regulation. His insistence that “if this technology goes wrong, it can go quite wrong” underlines the potential risks associated with unregulated AI. This represents a major shift in the tech industry’s approach towards regulation, suggesting a new willingness to work with government bodies to ensure the safe and ethical deployment of AI technologies.
+2. Mitigating Economic Impact
+In his testimony, Altman acknowledged that AI technology could displace certain jobs, but he also suggested it could create new ones. The challenge, he believes, lies with the government's ability to effectively manage this economic shift. This places a spotlight on the importance of government policy in managing the impact of AI on the economy, reiterating the need for public and private sector collaboration.
+3. Proposal of an AI Regulatory Agency
+Altman proposed the establishment of a regulatory agency dedicated to overseeing the development and deployment of large-scale AI models. He suggested that such an agency could develop safety regulations and create mandatory tests that AI models must pass before being released to the public. This proposal underscores the need for proactive measures to ensure AI safety, rather than a reactive approach.
+4. Recognizing AI as a Tool
+Despite his calls for regulation, Altman made it clear that AI is, at its core, a tool—one that can be used for various purposes depending on its application. He aligned with IBM's chief privacy and trust officer, Christina Montgomery, in suggesting that regulation should be focused on specific uses rather than the technology itself.
+5. Advocating for a New Approach
+Altman emphasized that the approach to AI regulation should be different from the approach to social media regulation. His argument for a “totally new approach” reflects the unique challenges posed by AI technology, and the inadequacy of existing regulatory frameworks to address these challenges.
+Sam Altman's testimony to Congress marked a significant turning point in the conversation around AI regulation. His call for proactive regulation, collaboration between tech companies and government, and the creation of a dedicated AI regulatory agency points towards a new era where the tech industry and government work in tandem to navigate the unprecedented challenges and opportunities posed by AI. As AI continues to evolve, the implications of Altman's testimony will become increasingly pertinent.
+You can find the full testimony 
+here
+."
+Artificial Intelligence,Can You Build Large Language Models Like ChatGPT At Half Cost?,https://www.unite.ai/can-you-build-large-language-models-like-chatgpt-at-half-cost/,2023-05-11T03:24:58-04:00,Learn about the cost of training Large Language Models like GPT-3. Explore how the LiGO technique can halve the cost of training LLMs.,"Large Language Models
+ (LLMs) like GPT-3 and ChatGPT have revolutionized AI by offering Natural Language Understanding and content generation capabilities. But their development comes at a hefty price limiting accessibility and further research. Researchers estimate that training GPT-3 cost OpenAI around 
+$5 million
+. Nevertheless, Microsoft recognized the potential and invested 
+$1 billion
+ in 2019 and 
+$10 billion
+ in 2023 in OpenAI’s GPT-3 and ChatGPT venture.
+LLMs are 
+machine learning
+ models trained on extensive textual data for NLP applications. They are based on transformer architecture and utilize attention mechanisms for NLP tasks like question-answering, machine translation, sentiment analysis, etc.
+The question arises: can the efficiency of these large models be increased while simultaneously reducing computational cost and training time?
+Several approaches, like 
+Progressive Neural Networks
+, 
+Network Morphism
+, 
+intra-layer model parallelism
+, 
+knowledge inheritance
+, etc., have been developed to reduce the computational cost of training neural networks. The novel 
+LiGO
+ (Linear Growth Operator) approach we will discuss is setting a new benchmark. It halves the computational cost of training LLMs.
+Before discussing this technique, examining the factors contributing to the high price of making LLMs is essential.
+Cost of Building Large Language Models
+Three major expenses for developing LLMs are as follows:
+1. Computational Resources
+Building LLMs require massive computational resources to train on large datasets. They must process billions of parameters and learn complex patterns from massive textual data.
+Investment in specialized hardware such as Graphics Processing Units (
+GPUs
+) and Tensor Processing Units (TPUs) is required for building and training LLMs to achieve state-of-the-art performance.
+For instance, GPT-3 was trained on a 
+supercomputer
+ with 10000 enterprise-grade GPUs (H100 and A100) and 285,000 CPU cores.
+2. Energy Consumption
+The intensive computational resources required for building LLMs result in significant energy consumption. For instance, training 175 billion parameters GPT-3 took 
+14.8 days
+ using 10,000 V100 GPUs, equivalent to 3.55 million GPU hours. Such a high level of energy consumption has significant environmental effects as well.
+3. Data Storage & Management
+LLMs are trained on large datasets. For instance, GPT-3 was trained on a vast corpus of textual 
+data
+, including Common Crawl, WebText2, Books1, Books2, and Wikipedia, among other sources. Significant infrastructure investment is required to collect, curate and store these datasets.
+Also, cloud storage is required for data storage, and human expertise for data preprocessing and version control. Moreover, ensuring that your data strategy complies with regulations like GDPR also adds to the cost.
+LiGO Technique: Reduce the Cost of Building Large Language Models to Half
+LiGO (Linear Growth Operator) is a novel technique developed by researchers at MIT to reduce the computational cost of training LLMs by 50%. The method involves initializing the weights of larger models from those of smaller pre-trained models, enabling efficient scaling of neural networks.
+Image from the Paper: 
+Learning to Grow Pretrained Models For Efficient Transformer Training
+Yoon Kim
+, the senior author of the paper, says:
+“It’s been estimated that training models at the scale of what ChatGPT is hypothesized to run on could take millions of dollars just for a single training run. Can we improve the efficiency of these training methods, so we can still get good models in less time and for less money? We propose to do this by leveraging smaller language models that have previously been trained.”
+This method maintains the performance benefits of larger models with reduced computational cost and training time compared to training a large model from scratch. LiGO utilizes a data-driven linear growth operator that combines depth and width operators for optimum performance.
+The paper utilized various datasets to conduct text-based experiments, including the English Wikipedia corpus for training BERT and RoBERTa models and the C4 dataset for training GPT2.
+The LiGO technique experimentation included growing BERT-Small to BERT-Base, BERT-Base to BERT-Large, RoBERTaSmall to RoBERTa-Base, GPT2-Base to GPT2-Medium, and CaiT-XS to CaiT-S.
+The researchers compared their approach with several other baselines, including training from scratch, progressive training, bert2BERT, and KI.
+LiGO technique offered 44.7% savings in FLOPs (floating-point operations per second) and 40.7% savings in wall time compared to training BERT-Base from scratch by reusing the BERT-Small model. LiGO growth operator outperforms StackBERT, MSLT, bert2BERT, and KI in efficient training.
+Benefits of Using a Training Optimization Technique Like LiGO
+LiGO is an efficient neural network training method that has various benefits listed as follows:
+1. Faster Training
+As stated earlier, faster training is the main advantage of the LiGO technique. It trains LLMs in half the time, increasing productivity and reducing costs.
+2. Resource Efficient
+LiGO is resource-efficient since it minimizes wall time and FLOPs, leading to a more cost-effective and eco-friendly approach to training large transformer models.
+3. Generalization
+The LiGO technique has improved the performance of both language and vision transformers suggesting that it is a generalizable technique that can be applied to various tasks.
+Building commercial AI products is just one facet of the overall expenses associated with AI systems. Another significant component of costs comes from daily operations. For instance, it costs OpenAI about 
+$700,000
+ every day to answer queries using ChatGPT. Researchers are expected to continue exploring approaches that make LLMs cost-effective during training and more accessible on runtime.
+For more AI-related content, visit 
+unite.ai
+."
+Our Vision,About Images.ai,https://www.unite.ai/imagesai/,2023-05-12T13:35:46-04:00,Images.ai is an generative AI platform that uses the latest in open-source software that enables users to create art & images for free.,"Images.ai
+ offers the latest in generative AI by taking advantage of stable diffusion open-source code.  Unlike competing websites that offer stable diffusion solutions – the website is free. We will reiteratively and continuously improve our algorithm as our team expands and continue to add resources, and optimize the 
+machine learning
+ algorithms that are layered on top of this software.
+The tool is intentionally designed to be simple, no confusing commands – Simply enter a search term and a spectacular piece of art will be generated.
+For users who are interested in advanced features we now offer 
+Concepts
+.
+What are Concepts?
+Users can select from concepts, basically each concept is a pre-engineered prompt shortcut that indicates to our AI how to render the image. Each concept is very experimental, and it may not always yield the result that you are looking for. After using a concept once or twice you should understand which concept best works for you.
+As a user all you need to do is copy and paste the concept into the query box along with your search string and click on “Brew”. Like magic the AI does the rest.
+The First of Many AI Tools
+This is the first of many AI tools that will be released by 
+Unite.ai
+, the name Unite was chosen to unite the AI community, and to unite all of the best open-source tools under one digital roof.
+Future projects that will be released include:
+Genius.ai
+ – A chatbot platform that uses open-source software and connects to the latest version of GPT 3.5 and beyond. By using open-source code alongside OpenAI APIs, we will create the first personalized AI assistant, that is customizable, personalized and remembers.
+Remembers your name, the stories you share, your health issues, your hopes, your dreams, and more. Do you want an authoritative or a friendly and personable AI? You can choose.
+This will be your own unique AI, and by using this tool a symbiotic relationship will form, and you will become a better version of yourself.
+Best of all, this tool will offer traditional GPT4 services as well as goal-oriented prompting, where updates are made in real-time to websites, social media accounts, and other services or platforms.
+Think.ai
+ – This will be a platform for companies who are searching for AI solutions. Want to build an application to sort through your company's data? Need to use pattern recognition to identify how to optimize business applications? Don't know where to start? Think.ai will be the solution.
+We craft AI solutions that can scale – All under one community.
+We would like to thank our partners for this project, and this includes 
+Graydient.ai
+, our solutions are not built in a vacuum, they are the result of a community coming together."
+Best Of,10 Best Video Enhancer Tools & Apps (May 2023),https://www.unite.ai/best-video-enhancer-tools-apps/,2023-05-16T13:27:57-04:00,Top 9 AI Video Enhancers & Apps · 1. HitPaw · 2. Veed · 3. Wondershare Filmora · 4. AVCLab · 5. Topaz · 6. Lightworks · 7. Clipchamp,"We all know how important visuals can be in capturing and engaging an audience – whether that be through music videos, live streaming, movies or even just simple vlogs. That’s why it is crucial to ensure those visuals are as impressive as possible.
+Enhancing the quality of video recordings has become simpler and faster with the advent of specialized video enhancer software. Not only can this software improve the resolution, brightness, and sharpness of videos captured by webcams, smartphones, or video cameras, but it also offers a wide range of additional features such as noise reduction and color optimization.
+With today’s technology, these tools make it easy to produce high-quality content without needing to be an expert in post-production. So if you want to turn ordinary videos into professional-looking projects without going through an intricate editing process, make sure to take advantage of these software tools.
+Here are some of the best video enhancer tools and apps on the market:
+1. 
+HitPaw
+HitPaw Video Enhancer AI is the perfect solution for anyone looking to upgrade their videos. It utilizes AI technology to drastically improve the quality of the videos by utilizing three separate models, including Denoise Model, Animation Model, and Face Model.
+The Denoise Model works to lighten up low-light and otherwise poor-quality footage so it looks clear and bright. The Animation Model sharpens up classic anime clips and adds color in order to make them look more natural on high-quality screens. Finally, the Face Model adjusts portraits within each frame of video by adjusting the brightness, color saturation, and contrast for a retouched finish.
+Some of the top features of HitPaw include:
+AI-powered technology for upscaling videos quickly
+Noise reduction for videos
+Perfects anime and human face videos
+Increases video resolution up to 8K
+2. 
+Veed
+VEED’s artificial intelligence software automatically detects noise from your audio and removes it instantly, leaving you with a crisp sound quality. It’s perfect for cleaning up recordings done in your home office where you can’t always control every sound that can be picked up by your microphone. VEED can remove noises such as wind, rain, traffic sounds, ticking clocks, static, and humming sounds from airconditioning and more.
+VEED lets you create professional-grade videos with only a few clicks of the mouse. Using the easy to use video editor, you can adjust frame rate, resolution, size, lighting, audio quality, and much more. You can add background music, voice commentary, auto-generated subtitles, and even remove annoying background noise from your videos.
+Best of all you can use VEED’s video editing tools to make your entire video look stunning and professional. If you want to make your videos accessible to a wider audience, you can use our Auto Subtitle tool. Add subtitles throughout your video. Just click on Subtitles from the left menu and click Auto Transcribe. VEED will automatically generate subtitles for you. You can also use a whole range of video editing tools like video filters and camera effects. VEED also features a green screen editor, screen recorder, and so much more.
+3. 
+Wondershare Filmora
+Wondershare Filmora is an impressive video enhancer app that runs on both Windows and Mac operating systems, offering plenty of audio and video effects along with 50+ supported international formats, such as 4K editing.
+The app also grants access to advanced video editing tools and Filmstock effects, which make it perfect for small businesses, studios and educational institutions.
+Furthermore, its AI portrait feature allows users to easily detect humans in the video, significantly reducing editing time. Wondershare Filmora is an excellent choice for those who wish to create high-quality videos without too much effort.
+Some of the top features of Wondershare include:
+Keyframing
+Audio and video effects
+Various presets and effects
+Color adjustments
+4. 
+AVCLabs
+AVCLabs is another great video enhancer that combines the power of 
+machine learning
+ with user friendliness. Within a few minutes, you can skyrocket a low-res video to breathtaking 4K or 8K resolution.
+One of the tools’ unique aspects is that AVCLabs uses deep-compression computing to automatically remove artifacts that usually limit video quality.
+Additionally, its AI-enabled features help isolate and eliminate any unwanted noise in a video, as well as enhance facial features – even if the face is in motion. It's no wonder that professional film makers love this software – it provides results that exceed expectation.
+Some of the top features of AVCLabs include:
+Video resolution upscaling
+Multi-frame enhancment
+Crop, cut, and de-interlace videos
+Deep-compression algorithm
+5. 
+Topaz
+Topaz Video Enhance AI is a powerful upscaling tool designed by Topaz Labs that intelligently applies groundbreaking machine learning technology to enhance the resolution of videos up to 8K. This app can not only upscale videos, but also perform a variety of editing tasks such as trimming and slow motion effects, denoising, deinterlacing and restoring.
+The tool gives users complete freedom when it comes to enhancing the video quality with incredible accuracy and precision.
+Topaz AI video repair technology proves to be a powerful tool. Trained by thousands and thousands of videos, it allows for precise and efficient repairs. No matter the source of your video, you can use Topaz to look out for any blemishes and imperfections, from color adjustments and flicker reduction to sharpening blurred areas. The built-in AI engine can recognize these issues with accuracy, ensuring natural results with high quality.
+Some of the top features of Topaz include:
+Machine learning technology
+Enhance videos up to 8K
+Upscale, trim, slow motion, denoising, and other tasks
+Trained by thousands of videos
+6. 
+Lightworks
+Lightworks is a superior video editing option for individuals of all experience levels. Its wide-ranging features, such as 10-bit export, advanced tilting and motion graphics, make this a great tool to have in any user's repertoire. Even better, it supports plugins from NewBlue and TotalFX which can give users' particularly complex projects a unique flare.
+If the basic version doesn't quite cut it, Lightworks also offers a pro version which includes specialized features professionals need to finish complex projects. With this app at the ready, streamers, filmmakers and content creators alike will find themselves adequately equipped to take their vision and bring it to life with powerful yet simple editing tools.
+Some of the top features of Lightworks include:
+All experience levels
+Supports NewBlue and TotalFX plugins
+Option to upgrade to pro version
+Advanced titling and motion graphics
+7. 
+Clipchamp
+Clipchamp is a fantastic suite of tools for editing video content. By leveraging the power of cloud technology, it allows for complex editing tasks to be easily performed online. Whether you want to add audio files, images or videos, Clipchamp can help make simple work of incorporating them into one piece.
+Furthermore, users are capable of adding effects and text as desired, alongside being able to save the edited file offline on their local computer should they wish to access it again in the future. All these features mean that Clipchamp makes it easy to create and manipulate highly engaging visual content with minimal effort.
+Some of the top features of Clipchamp include:
+Full suite of tools
+Leverages power of cloud technology
+Add effects and text
+Save and edit offline
+8. 
+Shotcut
+Shotcut is an excellent choice for the video editing enthusiast looking to create high-quality videos without breaking the bank. With a range of advanced features usually found only in more expensive software, this powerful open-source and free video editor allows users to produce great results with minimal effort.
+Creating special effects such as blur and fish-eye correction can add a unique edge to any project and also be achieved very easily with Shotcut. Exporting 4K quality videos has never been simpler or more cost effective – unlocking exciting new possibilities in your projects. Try out Shotcut today and start producing stunning videos quick and easy.
+Some of the top features of Shotcut include:
+High-quality videos on a budget
+Wide range of advanced features
+Open-source and free
+Special effects like blur
+9. 
+Pixop
+Those looking to improve the quality of their videos with AI upscaling should consider Pixop. This software provides cutting-edge neural network technology which produces some of the most detailed and realistic results available – a feat made even more impressive by its automated nature, meaning that all users have to do is select the file they wish to upscale and let Pixop handle the rest.
+Furthermore, with regular updates that introduce new features and improvements, you can always be sure that Pixop is providing the best possible results. For in-depth video upscaling delivered with ease, consider giving Pixop a try.
+Some of the top features of Pixop include:
+Neural network technology
+Automated
+Regular feature updates
+In-depth video upscaling
+10. 
+DaVinci Resolve 18
+DaVinci Resolve 18 is an excellent tool for professionals or aspiring creators hoping to take their videos to the next level. In addition to its powerful video quality enhancer capabilities, this app also offers a range of features dedicated to providing better results.
+Its keyframing and cutting tools allow users to refine the finer details of videos with advanced precision, while its color grading and audio enhancement options open up a world of possibilities for audio-visual customization. Whether it is for personal projects or commercial projects, DaVinci Resolve 18 is a great choice for creating professional content.
+Some of the top features of DaVinci include:
+Powerful video quality enhancement
+Keyframing and cutting tools
+Color grading
+Audio enahncment"
+Thought Leaders,"ChatGPT is Coming to Finance, So Let’s Talk About the Risks and Rewards",https://www.unite.ai/chatgpt-is-coming-to-finance-so-lets-talk-about-the-risks-and-rewards/,2023-05-10T13:44:01-04:00,"The launch of ChatGPT sent the world into a frenzy. Within five days of launch, it had over a million users. Within two months, it broke records as the fastest-growing consumer application in history, with 100 million users. For perspective, it took TikTok nine months and Instagram 2.5 years to reach that milestone. Since its […]","The launch of ChatGPT sent the world into a frenzy. Within five days of launch, it had over a million users. Within two months, 
+it broke records
+ as the fastest-growing consumer application in history, with 100 million users. For perspective, it took TikTok 
+nine months
+ and Instagram 
+2.5 years
+ to reach that milestone.
+Since its release, generative AI has been building to a fever pitch in nearly every sector, including finance. 
+BloombergGPT
+ was announced in late March, and its capabilities include sentiment analysis, risk assessment, fraud detection and document classification, along with other financial NLP tasks.
+Now that Pandora's box has been opened, there's no going back. We will see generative AI and LLMs take a more significant role in the financial sector, likely leading to investment experts shifting into new positions emphasizing prompt engineering and contextual analysis.
+Since the change is inevitable, the logical next step is to debug the system, so to speak, by looking at the potential risks and considering ways to mitigate them.
+Risk: Confirmation Bias and Over-reliance on Machine “Expertise”
+Currently, the financial markets are experiencing 
+serious swings
+ that are leaving all but the most iron-stomached investors feeling motion sickness. Now let's consider what could happen if we add a substantial cohort of financial advisors who are heavily reliant on AI to give investment advice.
+It's true that we all know AI is prone to bias; we also know that human nature makes us far more likely to put too much trust in machines, especially ones that appear highly intelligent. This bias – called “
+machine heuristic
+” – could all too easily spiral out of control if professionals start relying too heavily on AI predictions and not checking the outputs against their own knowledge and experience.
+The current iteration of ChatGPT essentially agrees with anything you say, so if people start asking ChatGPT about financial markets based on unclear, partial or false information, they’ll get answers that confirm their ideas, even if they’re wrong. It’s easy to see how this could lead to disaster, especially when human biases or a bit of lazy fact-checking are added to the mix.
+Reward: Enhanced Efficiency, Productivity, Risk Management and Customer Satisfaction
+Hedge funds like 
+Citadel
+ and banking monoliths like 
+Morgan Stanley
+ are already embracing this technology as a knowledge resource because it’s so skilled at completing routine tasks like data organization and risk assessment. When incorporated as a tool in an investment professionals toolbox, it can help financial managers make better decisions in less time, freeing them up to do the expertise-driven parts of the job they enjoy most.
+It’s also able to 
+analyze financial data in real time
+, identify fraudulent transactions and take immediate action to prevent losses. Detecting these fraud patterns would be difficult or impossible to spot with traditional methods. Financial institutions in the U.S. alone lost over 
+$4.5 billion
+ to fraud in 2022, so this is a huge reward for banks.
+Additionally, generative AI allows for smarter virtual assistants to provide personalized and efficient customer service 24/7. For instance, India’s 
+Tata Mutual Fund
+ partnered with conversational AI platform Haptik to create a chatbot to help customers with basic account queries and provide financial advice, leading to a 70% drop in call volume and better customer satisfaction.
+Risk: Insufficient Compliance Regulations
+It's hard to imagine, but GPT's incredible power is still in relative infancy. The future will undoubtedly see an iteration so sophisticated that we can't yet fully grasp its abilities. Because of this, the global community must establish strict, comprehensive regulatory frameworks that ensure its fair, ethical use. Otherwise, it is likely that we will see 
+discriminatory practices
+ arise as a result of biased data, whether intentional or unintentional.
+Right now, consistent controls are sorely lacking, leaving companies and countries scrambling to decide how to handle this technology and how tight their restrictions should be. For instance, in sectors that deal with highly sensitive data, such as finance, healthcare and government, many organizations have outright 
+banned any use of ChatGPT
+ because they don't know how secure their data will be. Amazon, Verizon, JPMorgan Chase, Accenture and Goldman Sachs are all examples of this 
+sweeping ban
+.
+On a larger scale, countries are in the same regulatory limbo, with some, like 
+Germany
+ and 
+Italy
+, issuing temporary bans until they can ensure it will not incite GDPR violations. This is a serious concern for all EU members, especially in the wake of known 
+data leaks
+ already reported by OpenAI.
+Unfortunately, regulators are already pretty far behind the curve when it comes to developing solid legal frameworks for this tech. Still, once they catch up, we can expect to see GPT take its place in every sector of the global community.
+Reward: Better Regulation Means Faster Adoption
+The lack of controls on GPT tech is a major bottleneck for more widespread adoption. Yes, it's a trendy novelty right now, but it can't be viewed as a serious part of any long-term corporate strategy without comprehensive rules and guidelines about its use.
+Once the global community has developed and implemented appropriate frameworks, businesses will feel more comfortable investing in this technology, opening up a whole new wave of use cases across even the most cybersecurity-forward sectors like healthcare and government.
+Risk: Flooding Finance Markets With Amateurs
+Earlier, I mentioned the problem of generative AI only being able to give outputs based on its inputs. This problem has broader implications than allowing seasoned professionals to be a bit lazy. At least the industry veterans have the background and skills necessary to contextualize the data they're given, which is more than can be said for the amateurs who think they can masquerade as professional advisors by learning how to use ChatGPT.
+There's nothing wrong with being a DIY investor, especially if you enjoy exploring financial markets and experimenting with risk at your own expense. The problem is when these relatively unskilled people with a bit of spare cash and a lot of free time decide they're more competent than they really are because of AI and decide to brand themselves as professionals. Their lack of real-world experience and formal training will likely cause a fair amount of short-term chaos and put extra stress on actual professionals.
+Reward: ChatGPT Can Give Professionals a Long-Term Reputation Boost and Democratize Financial Advice
+The good news here is that if the real veterans can weather the inconvenience of a temporarily flooded market, they'll see how fast people get tired of hearing 
+generic advice
+ they could have read on Yahoo Finance and watch the amateurs drop out of the market as fast as they entered, leaving only the seasoned advisors to pick up the now-advisorless clients wishing to pay for expert help from someone who can deliver real results.
+On the other side of the equation, ChatGPT can also play a role in closing the financial literacy gap and helping those without access to a professional advisor learn some basic strategies for optimizing their money. Its ability to generate useful, basic investment advice means it is now possible to start making financial education more accessible, even to those who have been previously unable to pay for professional financial services.
+Lowering the barriers to better financial stability is an extremely important benefit of this technology because, currently, only 
+one in three adults
+ in the global community are financially literate."
+Interviews,"Arjun Narayan, Head of Global Trust and Safety for SmartNews – Interview Series",https://www.unite.ai/arjun-narayan-head-of-global-trust-and-safety-for-smartnews-interview-series/,2023-05-12T12:43:59-04:00,"Arjun Narayan, is the Head of Global Trust and Safety for SmartNews a news aggregator app, he is also an AI ethics, and tech policy expert.  SmartNews uses AI and a human editorial team as it aggregates news for readers. You were instrumental in helping to Establish Google's Trust & Safety Asia Pacific hub in […]","Arjun Narayan
+, is the Head of Global Trust and Safety for 
+SmartNews
+ a news aggregator app, he is also an AI ethics, and tech policy expert.  SmartNews uses AI and a human editorial team as it aggregates news for readers.
+You were instrumental in helping to Establish Google's Trust & Safety Asia Pacific hub in Singapore, what were some key lessons that you learned from this experience?
+When building Trust and Safety teams country-level expertise is critical because abuse is very different based on the country you’re regulating. For example, the way Google products were abused in Japan was different than how they were abused in Southeast Asia and India. This means abuse vectors are very different depending on who's abusing, and what country you're based in; so there's no homogeneity. This was something we learned early.
+I also learned that cultural diversity is incredibly important when building Trust and Safety teams abroad. At Google, we ensured there was enough cultural diversity and understanding within the people we hired. We were looking for people with specific domain expertise, but also for language and market expertise.
+I also found cultural immersion to be incredibly important. When we’re building Trust and Safety teams across borders, we needed to ensure our engineering and business teams could immerse themselves. This helps ensure everyone is closer to the issues we were trying to manage.  To do this, we did quarterly immersion sessions with key personnel, and that helped raise everyone’s cultural IQs.
+Finally, cross-cultural comprehension was so important. I managed a team in Japan, Australia, India, and Southeast Asia, and the way in which they interacted was wildly different. As a leader, you want to ensure everyone can find their voice. Ultimately, this is all designed to build a high-performance team that can execute sensitive tasks like Trust and Safety.
+Previously, you were also on the Trust & Safety team with ByteDance for the TikTok application, how are videos that are often shorter than one minute monitored effectively for safety?
+I want to reframe this question a bit, because it doesn’t really matter whether a video is short or long form. That isn’t a factor when we evaluate video safety, and length doesn’t have real weight on whether a video can spread abuse.
+When I think of abuse, I think of abuse as “issues.” What are some of the issues users are vulnerable to? Misinformation? Disinformation? Whether that video is 1 minute or 1 hour, there is still misinformation being shared and the level of abuse remains comparable.
+Depending on the issue type, you start to think through policy enforcement and safety guardrails and how you can protect vulnerable users. As an example, let's say there's a video of someone committing self-harm. When we receive notification this video exists, one must act with urgency, because someone could lose a life. We depend a lot on 
+machine learning
+ to do this type of detection. The first move is to always contact authorities to try and save that life, nothing is more important. From there, we aim to suspend the video, livestream, or whatever format in which it is being shared. We need to ensure we’re minimizing exposure to that kind of harmful content ASAP.
+Likewise, if it's hate speech, there are different ways to unpack that. Or in the case of bullying and harassment, it really depends on the issue type, and depending on that, we'd tweak our enforcement options and safety guardrails. Another example of a good safety guardrail was that we implemented machine learning that could detect when someone writes something inappropriate in the comments and provide a prompt to make them think twice before posting that comment. We wouldn’t stop them necessarily, but our hope was that people would think twice before sharing something mean.
+It comes down to a combination of machine learning and keyword rules. But, when it comes to livestreams, we also had human moderators reviewing those streams  that were flagged by AI so they could report immediately and implement protocols. Because they’re happening in real time, it’s not enough to rely on users to report, so we need to have humans monitoring in real-time.
+Since 2021, you’ve been the Head of Trust, Safety, and Customer experience at SmartNews, a news aggregator app. Could you discuss how SmartNews leverages machine learning and natural language processing to identify and prioritize high-quality news content?
+The central concept is that we have certain “rules” or machine learning technology that can parse an article or advertisement and understand what that article is about.
+Whenever there is something that violates our “rules”, let's say something is factually incorrect or misleading, we have machine learning flag that content to a human reviewer on our editorial team. At that stage, a they understand our editorial values and can quickly review the article and make a judgement about its appropriateness or quality. From there, actions are taken to address it.
+How does SmartNews use AI to ensure the platform is safe, inclusive, and objective?
+SmartNews was founded on the premise that hyper-personalization is good for the ego but is also polarizing us all by reinforcing biases and putting people in a filter bubble.
+The way in which SmartNews uses AI is a little different because we’re not exclusively optimizing for engagement. Our algorithm wants to understand you, but it's not necessarily hyper-personalizing to your taste. That’s because we believe in broadening perspectives. Our AI engine will introduce you to concepts and articles beyond adjacent concepts.
+The idea is that there are things people need to know in the public interest, and there are things people need to know to broaden their scope. The balance we try to strike is to provide these contextual analyses without being big-brotherly. Sometimes people won’t like the things our algorithm puts in their feed. When that happens, people can choose to not read that article. However, we are proud of the AI engine’s ability to promote serendipity, curiosity, whatever you want to call it.
+On the safety side of things, SmartNews has something called a “Publisher Score,” this is an algorithm designed to constantly evaluate whether a publisher is safe or not. Ultimately, we want to establish whether a publisher has an authoritative voice. As an example, we can all collectively agree ESPN is an authority on sports. But, if you’re a random blog copying ESPN content, we need to ensure that ESPN is ranking higher than that random blog. The publisher score also considers factors like originality, when articles were posted, what user reviews look like, etc. It’s ultimately a spectrum of many factors we consider.
+One thing that trumps everything is “What does a user want to read?” If a user wants to view clickbait articles, we won't stop them if it isn't illegal or breaks our guidelines. We don't impose on the user, but if something is unsafe or inappropriate, we have our due diligence before something hits the feed.
+What are your views on journalists using generative AI to assist them with producing content?
+I believe this question is an ethical one, and something we’re currently debating here at SmartNews. How should SmartNews view publishers submitting content formed by generative AI instead of journalists writing it up?
+I believe that train has officially left the station. Today, journalists are using AI to augment their writing. It's a function of scale, we don't have the time in the world to produce articles at a commercially viable rate, especially as news organizations continue to cut staff. The question then becomes, how much creativity goes into this? Is the article polished by the journalist? Or is the journalist completely reliant?
+At this juncture, generative AI is not able to write articles on breaking news events because there's no training data for it. However, it can still give you a pretty good generic template to do so. As an example, school shootings are so common, we could assume that generative AI could give a journalist a prompt on school shootings and a journalist could insert the school that was affected to receive a complete template.
+From my standpoint working with SmartNews, there are two principles I think are worth considering. Firstly, we want publishers to be up front in telling us when content was generated by AI, and we want to label it as such. This way when people are reading the article, they're not misled about who wrote the article. This is transparency at the highest order.
+Secondly, we want that article to be factually correct. We know that generative AI tends to make things up when it wants, and any article written by generative AI needs to be proofread by a journalist or editorial staff.
+You’ve previously argued for tech platforms to unite and create common standards to fight digital toxicity, how important of an issue is this?
+I believe this issue is of critical importance, not just for companies to operate ethically, but to maintain a level of dignity and civility. In my opinion, platforms should come together and develop certain standards to maintain this humanity. As an example, no one should ever be encouraged to take their own life, but in some situations, we find this type of abuse on platforms, and I believe that is something companies should come together to protect against.
+Ultimately, when it comes to problems of humanity, there shouldn't be competition. There shouldn’t even necessarily be competition on who is the cleanest or safest community—we should all aim to ensure our users feel safe and understood. Let’s compete on features, not exploitation.
+What are some ways that digital companies can work together?
+Companies should come together when there are shared values and the possibility of collaboration. There are always spaces where there is intersectionality across companies and industries, especially when it comes to fighting abuse, ensuring civility in platforms, or reducing polarization. These are moments when companies should be working together.
+There is of course a commercial angle with competition, and typically competition is good. It helps ensure strength and differentiation across companies and delivers solutions with a level of efficacy monopolies cannot guarantee.
+But, when it comes to protecting users, or promoting civility, or reducing abuse vectors, these are topics which are core to us preserving the free world. These are things we need to do to ensure we protect what is sacred to us, and our humanity. In my opinion, all platforms have a responsibility to collaborate in defense of human values and the values that make us a free world.
+What are your current views on responsible AI?
+We're at the beginning of something very pervasive in our lives. This next phase of generative AI is a problem that we don’t fully understand, or can only partially comprehend at this juncture.
+When it comes to responsible AI, it’s so incredibly important that we develop strong guardrails, or else we may end up with a Frankenstein monster of Generative AI technologies. We need to spend the time thinking through everything that could go wrong. Whether that is bias creeping into the algorithms, or large language models themselves being used by the wrong people to do nefarious acts.
+The technology itself isn’t good or bad, but it can be used by bad people to do bad things. This is why investing the time and resources in AI ethicists to do adversarial testing to understand the design faults is so critical. This will help us understand how to prevent abuse, and I think that’s probably the most important aspect of responsible AI.
+Because AI can’t yet think for itself, we need smart people who can build these defaults when AI is being programmed. The important aspect to consider right now is timing – we need these positive actors doing these things NOW before it’s too late.
+Unlike other systems we’ve designed and built in the past, AI is different because it can iterate and learn on its own, so if you don’t set up strong guardrails on what and how it’s learning, we cannot control what it might become.
+Right now, we’re seeing some big companies laying off ethics boards and responsible AI teams as part of major layoffs. It remains to be seen how seriously these tech majors are taking the technology and how seriously they’re reviewing the potential downfalls of AI in their decision making.
+Is there anything else that you would like to share about your work with Smartnews?
+I joined SmartNews  because I believe in its mission, the mission has a certain purity to it. I strongly believe the world is becoming more polarized, and there isn't enough media literacy today to help combat that trend.
+Unfortunately, there are too many people who take WhatsApp messages as gospel and believe them at face value. That can lead to tremendous consequences, including—and especially—violence. This all boils down to people not understanding what they can and cannot believe.
+If we do not educate people, or inform them on how to make decisions on the trustworthiness of what they’re consuming. If we do not introduce media literacy levels to discern between news and fake news, we'll continue to advocate the problem and increase the issues history has taught us not to do.
+One of the most important components of my work at SmartNews is to help reduce polarization in the world. I want to fulfill the founder's mission to improve media literacy where they can understand what they're consuming and make informed opinions about the world and the many diverse perspectives.
+Thank you for the great interview, readers who wish to learn more or want to try out a different type of news app should visit 
+SmartNews
+."
