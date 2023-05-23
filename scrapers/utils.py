@@ -171,8 +171,11 @@ def parse_article(article):
         except:
             article_data["Description"] = article[1].find(
                 "meta", property="article:description")['content']
-        article_data["Body"] = article[1].find(
-            'div', id='mvp-content-main').get_text(separator="\n")
+        """Clean Body text from Watch Youtube and Links"""
+        body_text =  article[1].find(
+            'div', id='mvp-content-main').get_text(separator="\n").replace("Watch this video on YouTube", "")
+        body_text = re.sub(r'https?://\S+', '', body_text)
+        article_data["Body"] = body_text
         logger.info(f'Storing article {article_data["Title"]}')
     except:
         """Failed because the article is not an article (author info, tags, research papers...)"""
