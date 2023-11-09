@@ -13,10 +13,12 @@ This system provides a tool for scraping articles from the web using user querie
 Ensure you have the required Python environment and dependencies installed:
 ```bash
 pip install pandas requests bs4 selenium logging zipfile
-
+```
 ## Usage
 To use the script, run it from the command line and follow the interactive prompts:
+```bash
 python main_script.py
+```
 Replace `main_script.py` with the actual filename of the script.
 
 ## Configuration
